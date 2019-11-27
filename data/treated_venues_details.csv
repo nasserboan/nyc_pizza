@@ -1,0 +1,904 @@
+,canonicalUrl,id,likes,listed,name,price,rating,ratingSignals,stats
+0,https://foursquare.com/v/peasant/3fd66200f964a52023eb1ee3,3fd66200f964a52023eb1ee3,392,1134,Peasant,3,8.6,560.0,170
+1,https://foursquare.com/v/vinnies-pizzeria/3fd66200f964a52056ee1ee3,3fd66200f964a52056ee1ee3,498,651,Vinnie's Pizzeria,1,8.7,716.0,198
+2,https://foursquare.com/lombardispizza,3fd66200f964a52062e61ee3,1320,2274,Lombardi's Coal Oven Pizza,2,8.3,1999.0,538
+3,https://foursquare.com/v/famous-famiglia-pizza/3fd66200f964a5207be81ee3,3fd66200f964a5207be81ee3,29,8,Famous Famiglia Pizza,1,6.9,49.0,18
+4,https://foursquare.com/v/otto-enoteca-pizzeria/3fd66200f964a520c7f11ee3,3fd66200f964a520c7f11ee3,1327,1917,Otto Enoteca Pizzeria,2,8.5,1940.0,488
+5,https://foursquare.com/v/lil-frankies/3fd66200f964a520d0e41ee3,3fd66200f964a520d0e41ee3,880,1686,Lil' Frankie's,2,9.0,1190.0,256
+6,https://foursquare.com/v/rosarios-pizza/3fd66200f964a520e9e31ee3,3fd66200f964a520e9e31ee3,129,114,Rosario's Pizza,1,7.4,229.0,81
+7,https://foursquare.com/v/grimaldis-pizzeria/3fd66200f964a520e9e81ee3,3fd66200f964a520e9e81ee3,1134,1834,Grimaldi's Pizzeria,1,7.8,1834.0,594
+8,https://foursquare.com/v/di-fara-pizza/40be6a00f964a520c4001fe3,40be6a00f964a520c4001fe3,598,2607,Di Fara Pizza,2,8.4,911.0,344
+9,https://foursquare.com/v/alligator-lounge/411ff900f964a520290c1fe3,411ff900f964a520290c1fe3,346,352,Alligator Lounge,1,7.8,524.0,117
+10,https://foursquare.com/v/celeste/42489a80f964a5208a201fe3,42489a80f964a5208a201fe3,239,547,Celeste,2,8.5,367.0,127
+11,https://foursquare.com/v/graziellas/437fbc80f964a520d62a1fe3,437fbc80f964a520d62a1fe3,164,267,Graziella's,2,8.6,256.0,90
+12,https://foursquare.com/v/johns-of-bleecker-street/43b9adf1f964a520e22c1fe3,43b9adf1f964a520e22c1fe3,667,1489,John's of Bleecker Street,2,8.9,910.0,216
+13,https://foursquare.com/v/posto/43c4bb46f964a5205a2d1fe3,43c4bb46f964a5205a2d1fe3,347,567,Posto,2,9.0,480.0,122
+14,https://foursquare.com/v/serafina-always/43f34e1df964a520982f1fe3,43f34e1df964a520982f1fe3,277,302,Serafina Always,3,8.3,412.0,109
+15,https://foursquare.com/v/carmines-pizzeria/4406d3fbf964a52046301fe3,4406d3fbf964a52046301fe3,223,115,Carmine's Pizzeria,1,8.3,341.0,86
+16,https://foursquare.com/croc_lounge_nyc,440d6b93f964a5208b301fe3,403,570,Crocodile Lounge,1,7.8,651.0,209
+17,https://foursquare.com/v/famous-bens-pizza-of-soho/44acde31f964a52013351fe3,44acde31f964a52013351fe3,143,146,Famous Ben's Pizza of SoHo,1,7.0,262.0,86
+18,https://foursquare.com/v/vezzo-thin-crust-pizza/44ae8bc6f964a52027351fe3,44ae8bc6f964a52027351fe3,768,1052,Vezzo Thin Crust Pizza,2,9.0,1067.0,269
+19,https://foursquare.com/v/la-villa/44bd68b5f964a5209f351fe3,44bd68b5f964a5209f351fe3,118,80,La Villa,2,8.2,203.0,84
+20,https://foursquare.com/v/cafe-fiorello/459395b7f964a52047401fe3,459395b7f964a52047401fe3,249,252,Cafe Fiorello,3,8.0,419.0,140
+21,https://foursquare.com/v/nicks-pizza/45ac11b0f964a5205b411fe3,45ac11b0f964a5205b411fe3,191,202,Nick's Pizza,2,9.0,279.0,94
+22,https://foursquare.com/v/lucali/45d5c6e2f964a520cb421fe3,45d5c6e2f964a520cb421fe3,603,2952,Lucali,2,9.2,807.0,232
+23,https://foursquare.com/v/totonnos-pizzeria-napolitano/45e82773f964a52066431fe3,45e82773f964a52066431fe3,251,1168,Totonno's Pizzeria Napolitano,2,8.3,362.0,110
+24,https://foursquare.com/v/joes-pizza/45ebc982f964a52091431fe3,45ebc982f964a52091431fe3,1446,2394,Joe's Pizza,1,8.9,1955.0,449
+25,https://foursquare.com/v/uno-pizzeria--grill/45f0b91df964a520c1431fe3,45f0b91df964a520c1431fe3,93,12,UNO Pizzeria & Grill,2,6.8,165.0,43
+26,https://foursquare.com/v/patsys-pizza--east-harlem/46615a4ff964a52064471fe3,46615a4ff964a52064471fe3,382,807,Patsy's Pizza - East Harlem,1,8.8,514.0,136
+27,https://foursquare.com/v/lazzaras-pizza/468e1813f964a5207b481fe3,468e1813f964a5207b481fe3,85,138,Lazzara's Pizza,2,7.9,142.0,48
+28,https://foursquare.com/v/gemma/46e7a0caf964a520ca4a1fe3,46e7a0caf964a520ca4a1fe3,573,1336,Gemma,3,8.4,838.0,192
+29,https://foursquare.com/v/bodrum-mediterranean-restaurant/479309d9f964a520564d1fe3,479309d9f964a520564d1fe3,128,108,Bodrum Mediterranean Restaurant,3,8.0,194.0,48
+30,https://foursquare.com/v/robertas-pizza/47e100b9f964a520414e1fe3,47e100b9f964a520414e1fe3,3207,6360,Roberta's Pizza,2,9.3,4052.0,856
+31,https://foursquare.com/v/artichoke-basilles-pizza/4800619cf964a520ec4e1fe3,4800619cf964a520ec4e1fe3,1279,1741,Artichoke Basille’s Pizza,1,8.1,1938.0,568
+32,https://foursquare.com/v/angelos-pizza/4860243cf964a520dc501fe3,4860243cf964a520dc501fe3,189,124,Angelo's Pizza,2,7.9,304.0,88
+33,https://foursquare.com/v/delizia-92/49b0c2e1f964a520cc521fe3,49b0c2e1f964a520cc521fe3,57,19,Delizia 92,2,7.3,110.0,39
+34,https://foursquare.com/v/bleecker-street-pizza/49bed0f6f964a520e2541fe3,49bed0f6f964a520e2541fe3,467,650,Bleecker Street Pizza,1,8.5,699.0,170
+35,https://foursquare.com/v/ignazios-pizza/49bfceb0f964a52028551fe3,49bfceb0f964a52028551fe3,110,57,Ignazio's Pizza,1,6.4,219.0,80
+36,https://foursquare.com/v/front-street-pizza/49c7ce82f964a520c3571fe3,49c7ce82f964a520c3571fe3,164,87,Front Street Pizza,1,6.9,288.0,98
+37,https://foursquare.com/v/amorina-cucina-rustica/49c96337f964a5205b581fe3,49c96337f964a5205b581fe3,84,117,Amorina Cucina Rustica,2,8.2,134.0,42
+38,https://foursquare.com/v/il-porto/49ce40d9f964a520275a1fe3,49ce40d9f964a520275a1fe3,78,56,Il Porto,2,8.4,115.0,35
+39,https://foursquare.com/v/lb-spumoni-gardens/49d006ccf964a520f85a1fe3,49d006ccf964a520f85a1fe3,1101,1364,L&B Spumoni Gardens,2,9.1,1478.0,426
+40,https://foursquare.com/v/bar-tano/49d10b5af964a520545b1fe3,49d10b5af964a520545b1fe3,143,131,Bar Tano,2,7.9,225.0,50
+41,https://foursquare.com/v/sal--carmines-pizza/49d36b28f964a520f55b1fe3,49d36b28f964a520f55b1fe3,118,325,Sal & Carmine's Pizza,1,7.9,199.0,78
+42,https://foursquare.com/v/giardini-pizza/49d7e8c0f964a520795d1fe3,49d7e8c0f964a520795d1fe3,46,13,Giardini Pizza,1,7.0,82.0,15
+43,https://foursquare.com/v/sams-italian-cuisine/49d908baf964a520ee5d1fe3,49d908baf964a520ee5d1fe3,79,190,Sam's Italian Cuisine,2,8.2,125.0,40
+44,https://foursquare.com/v/little-italy-pizza/49dceb2ff964a520be5f1fe3,49dceb2ff964a520be5f1fe3,106,39,Little Italy Pizza,1,7.2,196.0,70
+45,https://foursquare.com/v/emporio/49e4f405f964a52078631fe3,49e4f405f964a52078631fe3,505,919,Emporio,3,9.0,723.0,216
+46,https://foursquare.com/v/rays-pizza/49eb315df964a520ab661fe3,49eb315df964a520ab661fe3,112,50,Ray's Pizza,1,6.1,247.0,69
+47,https://foursquare.com/v/cheesy-pizza/49f4756ef964a520086b1fe3,49f4756ef964a520086b1fe3,18,9,Cheesy Pizza,1,5.6,48.0,21
+48,https://foursquare.com/v/gabys-pizza/49f6ee4bf964a520626c1fe3,49f6ee4bf964a520626c1fe3,197,70,Gaby's Pizza,1,8.7,297.0,103
+49,https://foursquare.com/v/johns-pizzeria/49ff15a9f964a520c76f1fe3,49ff15a9f964a520c76f1fe3,769,731,John's Pizzeria,2,8.2,1182.0,344
+50,https://foursquare.com/v/grandaisy-bakery/4a01e214f964a52005711fe3,4a01e214f964a52005711fe3,173,303,Grandaisy Bakery,2,8.1,273.0,95
+51,https://foursquare.com/v/dannys-pizzeria/4a0799a0f964a52089731fe3,4a0799a0f964a52089731fe3,41,17,Danny's Pizzeria,1,6.2,95.0,28
+52,https://foursquare.com/v/bennys-brick-oven-pizza/4a14a3ccf964a52061781fe3,4a14a3ccf964a52061781fe3,11,6,Benny's Brick Oven Pizza,1,7.7,18.0,10
+53,https://foursquare.com/v/serafina-broadway/4a15acf0f964a520b3781fe3,4a15acf0f964a520b3781fe3,293,231,Serafina Broadway,2,7.7,460.0,103
+54,https://foursquare.com/v/pizza-wagon/4a188c55f964a520c7791fe3,4a188c55f964a520c7791fe3,59,36,Pizza Wagon,1,7.6,100.0,46
+55,https://foursquare.com/v/koronet-pizza/4a189b31f964a520cf791fe3,4a189b31f964a520cf791fe3,177,181,Koronet Pizza,1,7.5,295.0,115
+56,https://foursquare.com/v/sabrinas-pizzeria/4a297571f964a52093951fe3,4a297571f964a52093951fe3,11,7,Sabrina's Pizzeria,1,6.4,25.0,9
+57,https://foursquare.com/v/taco-bell--pizza-hut-express/4a2d48adf964a5209e971fe3,4a2d48adf964a5209e971fe3,243,46,Taco Bell / Pizza Hut Express,1,6.7,420.0,73
+58,https://foursquare.com/v/roses-pizza--pasta/4a2dfb47f964a5200e981fe3,4a2dfb47f964a5200e981fe3,94,22,Rose's Pizza & Pasta,1,7.5,160.0,51
+59,https://foursquare.com/v/smiling-pizza-restaurant/4a3332f3f964a520139b1fe3,4a3332f3f964a520139b1fe3,82,31,Smiling Pizza Restaurant,1,6.7,162.0,39
+60,https://foursquare.com/v/adriennes-pizza-bar/4a455daff964a52014a81fe3,4a455daff964a52014a81fe3,606,663,Adrienne's Pizza Bar,2,8.6,872.0,232
+61,https://foursquare.com/v/harrys-italian-pizza-bar/4a4560a7f964a5201aa81fe3,4a4560a7f964a5201aa81fe3,315,273,Harry's Italian Pizza Bar,3,8.0,511.0,140
+62,https://foursquare.com/v/vt-pizzeria/4a469e4ef964a52034a91fe3,4a469e4ef964a52034a91fe3,69,40,V&T Pizzeria,2,6.8,122.0,36
+63,https://foursquare.com/v/deninos-pizzeria-tavern/4a4d4dd2f964a520dcad1fe3,4a4d4dd2f964a520dcad1fe3,221,244,Denino's Pizzeria Tavern,2,8.9,324.0,109
+64,https://foursquare.com/v/rizzos-fine-pizza/4a54014df964a520f0b21fe3,4a54014df964a520f0b21fe3,57,123,Rizzo's Fine Pizza,1,8.0,100.0,42
+65,https://foursquare.com/v/the-original-goodfellas-brick-oven-pizza/4a552f7af964a520ceb31fe3,4a552f7af964a520ceb31fe3,68,39,The Original Goodfella's Brick Oven Pizza,1,8.2,112.0,46
+66,https://foursquare.com/v/nicolas-restaurant/4a563f81f964a520dab41fe3,4a563f81f964a520dab41fe3,23,18,Nicola's Restaurant,1,7.3,39.0,12
+67,https://foursquare.com/v/kings-pizza/4a5912a4f964a5209ab81fe3,4a5912a4f964a5209ab81fe3,9,2,King's Pizza,1,8.1,15.0,5
+68,https://foursquare.com/v/saraghina/4a593de0f964a52015b91fe3,4a593de0f964a52015b91fe3,740,1247,Saraghina,2,9.2,951.0,204
+69,https://foursquare.com/v/sals-pizzeria/4a5bda1df964a520e1bb1fe3,4a5bda1df964a520e1bb1fe3,84,31,Sal's Pizzeria,1,7.4,131.0,35
+70,https://foursquare.com/v/naples-45-ristorante-e-pizzeria/4a5cc276f964a52087bc1fe3,4a5cc276f964a52087bc1fe3,173,100,Naples 45 Ristorante e Pizzeria,2,6.5,330.0,78
+71,https://foursquare.com/v/antonios-pizzeria/4a5d0079f964a52005bd1fe3,4a5d0079f964a52005bd1fe3,67,40,Antonio's Pizzeria,1,7.5,126.0,46
+72,https://foursquare.com/v/global-kitchen/4a5dc5f0f964a520b2bd1fe3,4a5dc5f0f964a520b2bd1fe3,45,13,Global Kitchen,1,6.3,92.0,21
+73,https://foursquare.com/v/not-rays-pizza/4a5e147bf964a52001be1fe3,4a5e147bf964a52001be1fe3,144,108,Not Ray's Pizza,1,8.5,201.0,52
+74,https://foursquare.com/v/new-york-pizza-suprema/4a639f9ff964a52077c51fe3,4a639f9ff964a52077c51fe3,881,993,New York Pizza Suprema,1,9.0,1236.0,333
+75,https://foursquare.com/v/tonys-pizza--pasta/4a63d726f964a520e6c51fe3,4a63d726f964a520e6c51fe3,41,28,Tony's Pizza & Pasta,1,7.2,78.0,32
+76,https://foursquare.com/v/toasties-east/4a65ff75f964a520d8c71fe3,4a65ff75f964a520d8c71fe3,89,23,Toasties East,1,8.6,120.0,25
+77,https://foursquare.com/v/freddie--peppers-pizza/4a6cdeb8f964a520e0d11fe3,4a6cdeb8f964a520e0d11fe3,86,56,Freddie & Pepper's Pizza,1,7.4,159.0,58
+78,https://foursquare.com/v/pizza-park/4a72520af964a520e2da1fe3,4a72520af964a520e2da1fe3,88,66,Pizza Park,2,8.2,151.0,59
+79,https://foursquare.com/v/francesco-pizzeria/4a7c8472f964a520e4ec1fe3,4a7c8472f964a520e4ec1fe3,54,19,Francesco Pizzeria,1,7.2,98.0,35
+80,https://foursquare.com/v/peppinos-pizza/4a7e1c00f964a520fcf01fe3,4a7e1c00f964a520fcf01fe3,147,217,Peppino's Pizza,1,9.1,201.0,55
+81,https://foursquare.com/v/la-traviata/4a804e93f964a520e9f41fe3,4a804e93f964a520e9f41fe3,45,17,La Traviata,1,7.2,83.0,29
+82,https://foursquare.com/v/teresas-brick-oven-pizza--cafe/4a808334f964a52082f51fe3,4a808334f964a52082f51fe3,33,14,Teresa's Brick Oven Pizza & Cafe,1,7.6,57.0,17
+83,https://foursquare.com/v/giovannis/4a86083ff964a520230020e3,4a86083ff964a520230020e3,11,8,Giovanni's,1,6.2,22.0,8
+84,https://foursquare.com/v/cafe-71/4a873770f964a5204a0320e3,4a873770f964a5204a0320e3,26,6,Cafe 71,2,6.4,66.0,32
+85,https://foursquare.com/v/anna-maria-pizza--pasta/4a895649f964a520e60720e3,4a895649f964a520e60720e3,167,83,Anna Maria Pizza & Pasta,1,7.4,283.0,93
+86,https://foursquare.com/v/luigis-pizza/4a8b40c3f964a520f00b20e3,4a8b40c3f964a520f00b20e3,112,200,Luigi's Pizza,1,8.8,159.0,45
+87,https://foursquare.com/v/little-italy-pizza/4a8c31aef964a520410d20e3,4a8c31aef964a520410d20e3,66,46,Little Italy Pizza,1,7.3,121.0,40
+88,https://foursquare.com/v/roma-pizza/4a8c8cf0f964a520780e20e3,4a8c8cf0f964a520780e20e3,103,66,Roma Pizza,1,7.7,178.0,64
+89,https://foursquare.com/lacasabellamenu,4a8d97e5f964a520281020e3,61,38,La Casa Bella,2,8.6,86.0,26
+90,https://foursquare.com/v/pronto-pizza--28th-avenue/4a8dd44cf964a520031120e3,4a8dd44cf964a520031120e3,17,5,Pronto Pizza - 28th Avenue,1,8.1,26.0,7
+91,https://foursquare.com/v/pizza-petes/4a9051aaf964a520461720e3,4a9051aaf964a520461720e3,24,20,Pizza Pete's,1,6.1,59.0,21
+92,https://foursquare.com/v/patsys-pizzeria/4a9359caf964a5209b1f20e3,4a9359caf964a5209b1f20e3,192,198,Patsy's Pizzeria,2,7.9,291.0,65
+93,https://foursquare.com/v/lennys-pizzeria/4a9819bbf964a520772a20e3,4a9819bbf964a520772a20e3,20,4,Lenny's Pizzeria,1,6.1,41.0,15
+94,https://foursquare.com/v/pinos-la-forchetta/4a999e1bf964a5207a2f20e3,4a999e1bf964a5207a2f20e3,37,26,Pino's La Forchetta,1,7.7,65.0,24
+95,https://foursquare.com/v/hot--crusty/4a9ad45af964a520033320e3,4a9ad45af964a520033320e3,21,3,Hot & Crusty,1,5.7,49.0,16
+96,https://foursquare.com/v/section-5-pizza/4aa6f702f964a520a84b20e3,4aa6f702f964a520a84b20e3,10,0,Section 5 Pizza,1,6.7,21.0,8
+97,https://foursquare.com/v/grand-avenue-pizza/4aa87fe8f964a5207f5120e3,4aa87fe8f964a5207f5120e3,22,5,Grand Avenue Pizza,1,7.3,38.0,13
+98,https://foursquare.com/v/famous-amadeus-pizza--hells-kitchen/4aa88507f964a5208a5120e3,4aa88507f964a5208a5120e3,50,26,Famous Amadeus Pizza - Hell's Kitchen,2,7.0,109.0,47
+99,https://foursquare.com/v/franks-gourmet-deli/4aab362bf964a520405920e3,4aab362bf964a520405920e3,4,0,Frank's Gourmet Deli,1,5.5,16.0,8
+100,https://foursquare.com/v/zero-otto-nove/4aabd3e6f964a5204a5a20e3,4aabd3e6f964a5204a5a20e3,233,358,Zero Otto Nove,3,9.0,319.0,77
+101,https://foursquare.com/v/two-boots-east-village/4aabe6a8f964a520cb5a20e3,4aabe6a8f964a520cb5a20e3,169,141,Two Boots East Village,1,7.8,273.0,74
+102,https://foursquare.com/v/montyqs-brick-oven-pizza/4aad3536f964a520035f20e3,4aad3536f964a520035f20e3,58,20,MontyQ's Brick Oven Pizza,2,6.8,106.0,31
+103,https://foursquare.com/v/chuck-e-cheese/4aad9dc8f964a520056120e3,4aad9dc8f964a520056120e3,26,6,Chuck E. Cheese,0,5.0,79.0,27
+104,https://foursquare.com/v/v--s-pizza/4aafe3a4f964a520046520e3,4aafe3a4f964a520046520e3,10,3,V & S Pizza,1,8.4,13.0,5
+105,https://foursquare.com/v/nice-pizza/4ab135cbf964a520836820e3,4ab135cbf964a520836820e3,49,39,Nice Pizza,2,7.2,89.0,34
+106,https://foursquare.com/v/the-best-joes-pizza-of-park-slope/4ab5c11ff964a520067620e3,4ab5c11ff964a520067620e3,30,14,The Best Joes Pizza of Park Slope,1,6.6,58.0,19
+107,https://foursquare.com/v/gary--ginos-pizzeria/4ab7a594f964a5204d7a20e3,4ab7a594f964a5204d7a20e3,8,1,Gary & Gino's Pizzeria,1,6.1,14.0,6
+108,https://foursquare.com/v/triangolo-pizzeria/4aba7062f964a5204e8120e3,4aba7062f964a5204e8120e3,46,19,Triangolo Pizzeria,1,7.3,78.0,24
+109,https://foursquare.com/v/tribeca-bagels/4ac35065f964a520239b20e3,4ac35065f964a520239b20e3,56,23,Tribeca Bagels,1,6.4,103.0,25
+110,https://foursquare.com/v/elegante-pizzeria/4ac4d8d4f964a520309f20e3,4ac4d8d4f964a520309f20e3,29,15,Elegante Pizzeria,1,7.9,48.0,15
+111,https://foursquare.com/v/marabellas-pizza/4ac77b97f964a5207cb720e3,4ac77b97f964a5207cb720e3,18,9,Marabella's Pizza,1,7.7,32.0,12
+112,https://foursquare.com/v/little-vincents-pizza/4ac7fac4f964a52003bb20e3,4ac7fac4f964a52003bb20e3,27,6,Little Vincent's Pizza,1,6.1,63.0,20
+113,https://foursquare.com/v/uno-pizzeria--grill/4ac8bfd9f964a52071bc20e3,4ac8bfd9f964a52071bc20e3,133,30,UNO Pizzeria & Grill,2,7.1,219.0,49
+114,https://foursquare.com/v/armandos-pizza/4aca206af964a52085c020e3,4aca206af964a52085c020e3,17,5,Armando's Pizza,1,7.7,36.0,19
+115,https://foursquare.com/v/nd-pizza-restaurant/4ad290b3f964a52034e220e3,4ad290b3f964a52034e220e3,3,0,N&D pizza restaurant,1,5.8,9.0,1
+116,https://foursquare.com/v/da-noi-restaraunt/4ad910d8f964a520b81721e3,4ad910d8f964a520b81721e3,13,2,Da Noi Restaraunt,2,7.7,20.0,6
+117,https://foursquare.com/v/tonys-di-napoli/4adce863f964a5206c6221e3,4adce863f964a5206c6221e3,532,356,Tony's Di Napoli,2,8.7,783.0,221
+118,https://foursquare.com/v/rosas-pizza/4add1b9af964a520196421e3,4add1b9af964a520196421e3,130,73,Rosa's Pizza,1,8.8,184.0,54
+119,https://foursquare.com/v/cafe-bella-vita/4addf818f964a520de6621e3,4addf818f964a520de6621e3,9,0,Cafe Bella Vita,3,5.8,19.0,8
+120,https://foursquare.com/v/my-little-pizzeria/4ae10c7af964a520db8421e3,4ae10c7af964a520db8421e3,96,53,My Little Pizzeria,1,8.0,159.0,49
+121,https://foursquare.com/v/pizza-boy/4ae8e9b8f964a52046b321e3,4ae8e9b8f964a52046b321e3,7,1,Pizza Boy,1,7.0,13.0,6
+122,https://foursquare.com/v/j--v-pizzeria/4aebaa02f964a5203cc421e3,4aebaa02f964a5203cc421e3,37,62,J & V Pizzeria,1,8.0,60.0,23
+123,https://foursquare.com/v/full-moon-pizzeria/4aee1220f964a520ced121e3,4aee1220f964a520ced121e3,115,75,Full Moon Pizzeria,2,8.5,168.0,42
+124,https://foursquare.com/v/strokos-gourmet-deli/4aee209af964a52059d221e3,4aee209af964a52059d221e3,48,8,Strokos Gourmet Deli,3,6.4,96.0,25
+125,https://foursquare.com/v/dona-bella-pizza/4af216e7f964a520d0e521e3,4af216e7f964a520d0e521e3,43,19,Dona Bella Pizza,1,6.3,86.0,35
+126,https://foursquare.com/v/joe--pat-pizzeria-and-restaurant/4af63dc0f964a5208c0222e3,4af63dc0f964a5208c0222e3,91,200,Joe & Pat Pizzeria and Restaurant,1,8.2,140.0,44
+127,https://foursquare.com/v/villa-pizza/4afa1ac2f964a520c81622e3,4afa1ac2f964a520c81622e3,32,6,Villa Pizza,1,5.1,110.0,33
+128,https://foursquare.com/v/jeromes-pizza/4afac66af964a520a11822e3,4afac66af964a520a11822e3,6,2,Jerome's Pizza,1,7.6,13.0,8
+129,https://foursquare.com/v/dees/4b007658f964a520833e22e3,4b007658f964a520833e22e3,117,56,DEE'S,2,8.9,175.0,54
+130,https://foursquare.com/v/little-luzzos-pizza/4b06e4bff964a52061f222e3,4b06e4bff964a52061f222e3,27,36,Little Luzzo's Pizza,1,7.8,51.0,23
+131,https://foursquare.com/v/carve-unique-sandwiches/4b083cdbf964a520ff0623e3,4b083cdbf964a520ff0623e3,107,60,Carve Unique Sandwiches,1,7.6,187.0,61
+132,https://foursquare.com/v/original-pizza/4b083d08f964a520020723e3,4b083d08f964a520020723e3,23,4,Original Pizza,1,7.8,39.0,17
+133,https://foursquare.com/v/gannis-pizzeria/4b08a0d8f964a520cd0f23e3,4b08a0d8f964a520cd0f23e3,46,14,Ganni's Pizzeria,1,7.8,74.0,15
+134,https://foursquare.com/v/gyro-uno/4b0b36a5f964a520cb2e23e3,4b0b36a5f964a520cb2e23e3,21,8,Gyro Uno,1,7.7,31.0,9
+135,https://foursquare.com/v/patricias/4b10591af964a5205f6e23e3,4b10591af964a5205f6e23e3,84,69,Patricia's,2,8.4,127.0,39
+136,https://foursquare.com/v/z-pizza/4b106b8af964a520127023e3,4b106b8af964a520127023e3,4,0,Z Pizza,1,5.2,22.0,12
+137,https://foursquare.com/v/waldys-wood-fired-pizza--penne/4b116915f964a520047c23e3,4b116915f964a520047c23e3,386,384,Waldy’s Wood Fired Pizza & Penne,2,8.6,570.0,147
+138,https://foursquare.com/v/pizza-classica/4b12b361f964a520768c23e3,4b12b361f964a520768c23e3,109,32,Pizza Classica,2,9.0,170.0,56
+139,https://foursquare.com/v/toms-delicious-pizza/4b12d15cf964a520b68e23e3,4b12d15cf964a520b68e23e3,14,6,Tom's Delicious Pizza,1,6.2,26.0,6
+140,https://foursquare.com/v/carlos-pizzeria/4b16fb1bf964a52077c023e3,4b16fb1bf964a52077c023e3,28,8,Carlo's Pizzeria,2,8.4,47.0,17
+141,https://foursquare.com/v/big-nicks-burger--pizza-joint-too/4b18b7ddf964a52059d523e3,4b18b7ddf964a52059d523e3,30,80,Big Nick's Burger & Pizza Joint Too,2,5.5,128.0,73
+142,https://foursquare.com/v/la-villa-pizzeria/4b193722f964a52056d923e3,4b193722f964a52056d923e3,75,23,La Villa Pizzeria,2,8.8,111.0,40
+143,https://foursquare.com/v/roma-pizza/4b194799f964a52065da23e3,4b194799f964a52065da23e3,58,18,Roma Pizza,1,7.4,93.0,33
+144,https://foursquare.com/v/politos-pizza/4b19911af964a520a0df23e3,4b19911af964a520a0df23e3,34,36,Polito's Pizza,1,8.5,57.0,20
+145,https://foursquare.com/v/rosa-ii-pizzeria--restaurant/4b19ccf1f964a5206ae423e3,4b19ccf1f964a5206ae423e3,43,8,Rosa II Pizzeria & Restaurant,2,8.5,66.0,18
+146,https://foursquare.com/v/due-fratelli/4b1b4a13f964a52094fa23e3,4b1b4a13f964a52094fa23e3,20,6,Due Fratelli,1,7.6,42.0,21
+147,https://foursquare.com/v/dominos-pizza/4b1dede3f964a5205b1624e3,4b1dede3f964a5205b1624e3,1,1,Domino's Pizza,1,6.2,4.0,1
+148,https://foursquare.com/v/emilios-pizza/4b2035e6f964a520bc2e24e3,4b2035e6f964a520bc2e24e3,43,17,Emilio's Pizza,2,8.1,74.0,28
+149,https://foursquare.com/v/nicks-restaurant--pizzeria/4b21779bf964a5204e3c24e3,4b21779bf964a5204e3c24e3,98,92,Nick's Restaurant & Pizzeria,2,8.1,159.0,42
+150,https://foursquare.com/v/famous-famiglias-pizza/4b21b4eef964a520784024e3,4b21b4eef964a520784024e3,26,10,Famous Famiglia's Pizza,1,6.4,46.0,7
+151,https://foursquare.com/v/famous-original-rays-pizza/4b22b9f2f964a520844c24e3,4b22b9f2f964a520844c24e3,29,15,Famous Original Ray's Pizza,1,5.5,77.0,21
+152,https://foursquare.com/v/sals-pizzeria/4b23e5bcf964a5204f5c24e3,4b23e5bcf964a5204f5c24e3,87,45,Sal's Pizzeria,1,8.1,137.0,41
+153,https://foursquare.com/v/luigis-pizzeria/4b242d48f964a520ff6224e3,4b242d48f964a520ff6224e3,101,84,Luigi's Pizzeria,1,8.6,134.0,28
+154,https://foursquare.com/v/california-pizza-kitchen/4b242e0df964a520166324e3,4b242e0df964a520166324e3,90,10,California Pizza Kitchen,2,7.9,142.0,35
+155,https://foursquare.com/v/maries-gourmet/4b2574e7f964a5203d7224e3,4b2574e7f964a5203d7224e3,35,8,Marie's Gourmet,4,8.0,62.0,144
+156,https://foursquare.com/v/tonys-pizza-on-nostrand/4b26e838f964a520e28224e3,4b26e838f964a520e28224e3,36,17,Tony's Pizza On Nostrand,1,7.5,59.0,16
+157,https://foursquare.com/v/korner-pizza/4b281bd5f964a520238f24e3,4b281bd5f964a520238f24e3,19,9,Korner Pizza,1,6.6,37.0,18
+158,https://foursquare.com/v/previti-pizza/4b292c91f964a5204a9a24e3,4b292c91f964a5204a9a24e3,68,83,Previti Pizza,1,7.2,133.0,51
+159,https://foursquare.com/v/pugsley-pizza/4b2a6ba8f964a520d9a824e3,4b2a6ba8f964a520d9a824e3,58,57,Pugsley Pizza,1,8.6,80.0,21
+160,https://foursquare.com/v/lennys-pizza/4b2a78f1f964a520d0a924e3,4b2a78f1f964a520d0a924e3,17,40,Lenny's Pizza,1,7.9,25.0,13
+161,https://foursquare.com/v/luigis-pizzeria/4b2ede2cf964a520aae724e3,4b2ede2cf964a520aae724e3,49,27,Luigi's Pizzeria,2,7.6,96.0,37
+162,https://foursquare.com/v/dominos-pizza/4b357135f964a520302d25e3,4b357135f964a520302d25e3,8,0,Domino's Pizza,1,6.2,15.0,3
+163,https://foursquare.com/v/angelos-pizza/4b36a128f964a520823925e3,4b36a128f964a520823925e3,102,56,Angelo's Pizza,2,7.7,166.0,45
+164,https://foursquare.com/v/sals-pizzeria/4b3a5564f964a520de6425e3,4b3a5564f964a520de6425e3,21,4,Sal's Pizzeria,1,7.6,37.0,13
+165,https://foursquare.com/v/jd-pizzeria--restaurant/4b3a5633f964a520f96425e3,4b3a5633f964a520f96425e3,23,2,J&D Pizzeria & Restaurant,1,7.7,33.0,5
+166,https://foursquare.com/v/pronto-pizza/4b3a7236f964a520816725e3,4b3a7236f964a520816725e3,17,3,Pronto Pizza,1,8.0,34.0,12
+167,https://foursquare.com/v/vincents-pizza--restaurant/4b3d3d15f964a520d09025e3,4b3d3d15f964a520d09025e3,3,5,Vincent's Pizza & Restaurant,1,6.3,10.0,5
+168,https://foursquare.com/v/vesuvio-pizzeria--restaurant/4b3eaefff964a520bfa025e3,4b3eaefff964a520bfa025e3,105,72,Vesuvio Pizzeria & Restaurant,2,8.7,150.0,149
+169,https://foursquare.com/v/tonys-pizzeria--restaurant/4b422fa1f964a52076ce25e3,4b422fa1f964a52076ce25e3,47,47,Tony's Pizzeria & Restaurant,2,8.2,67.0,20
+170,https://foursquare.com/v/mike--maggies-pizzeria/4b437eeef964a520b2e125e3,4b437eeef964a520b2e125e3,2,1,Mike & Maggie's Pizzeria,1,0.0,0.0,3
+171,https://foursquare.com/v/arturos/4b4429abf964a52037f225e3,4b4429abf964a52037f225e3,16,2,Arturo's,1,8.1,30.0,17
+172,https://foursquare.com/v/tony-oravio-pizza/4b47d0c7f964a520044026e3,4b47d0c7f964a520044026e3,81,49,Tony Oravio Pizza,1,8.4,117.0,27
+173,https://foursquare.com/v/louie--ernies-pizza/4b47ee2ff964a520544426e3,4b47ee2ff964a520544426e3,101,256,Louie & Ernie's Pizza,2,8.9,146.0,45
+174,https://foursquare.com/v/venezia-pizzeria/4b48cef8f964a520f55726e3,4b48cef8f964a520f55726e3,9,1,Venezia Pizzeria,1,7.5,15.0,3
+175,https://foursquare.com/v/porto-bello-pizza-and-restaurant/4b494398f964a520d96b26e3,4b494398f964a520d96b26e3,57,24,Porto Bello Pizza and Restaurant,2,8.3,82.0,21
+176,https://foursquare.com/delizia73,4b495fb4f964a520a36e26e3,69,37,Delizia 73 Ristorante & Pizza,1,7.8,111.0,34
+177,https://foursquare.com/v/jr-pizza/4b4b6a9ef964a520c79a26e3,4b4b6a9ef964a520c79a26e3,0,0,J&R Pizza,1,0.0,0.0,3
+178,https://foursquare.com/v/lorettas-pizza/4b4b9bc1f964a520cea126e3,4b4b9bc1f964a520cea126e3,20,2,Loretta's Pizza,1,8.0,33.0,12
+179,https://foursquare.com/v/tosca-caf%C3%A9/4b4b9f1df964a5201fa226e3,4b4b9f1df964a5201fa226e3,167,83,Tosca Café,2,8.1,240.0,60
+180,https://foursquare.com/v/famous-original-rays-pizza/4b4c704bf964a520feb226e3,4b4c704bf964a520feb226e3,112,43,Famous Original Ray's Pizza,1,6.6,212.0,63
+181,https://foursquare.com/v/patricias-of-tremont/4b4e3e87f964a5209de626e3,4b4e3e87f964a5209de626e3,48,16,Patricia's of Tremont,2,8.3,80.0,29
+182,https://foursquare.com/v/fontana-famous-pizza--gyro/4b53e4b4f964a52024ae27e3,4b53e4b4f964a52024ae27e3,72,19,Fontana Famous Pizza & Gyro,2,8.0,128.0,46
+183,https://foursquare.com/v/rosas-pizza/4b567697f964a520841128e3,4b567697f964a520841128e3,98,24,Rosa's Pizza,2,8.3,155.0,51
+184,https://foursquare.com/v/rockys--nickys-ii/4b574cb3f964a5200e3028e3,4b574cb3f964a5200e3028e3,10,0,Rocky's & Nicky's II,1,7.4,16.0,3
+185,https://foursquare.com/v/albas-pizza--restaurant/4b57992af964a520273928e3,4b57992af964a520273928e3,26,14,Alba's Pizza & Restaurant,2,6.7,62.0,30
+186,https://foursquare.com/v/peppinos-pizza/4b58c41ef964a520ff6928e3,4b58c41ef964a520ff6928e3,6,6,Peppinos Pizza,1,5.7,29.0,17
+187,https://foursquare.com/v/broadway-pizza/4b58e098f964a5206d7028e3,4b58e098f964a5206d7028e3,42,14,Broadway Pizza,1,8.3,62.0,23
+188,https://foursquare.com/v/peppinos/4b58f8f2f964a5203f7628e3,4b58f8f2f964a5203f7628e3,33,29,Peppino's,1,8.7,49.0,16
+189,https://foursquare.com/v/3-in-1-kitchen/4b5909dcf964a520a27928e3,4b5909dcf964a520a27928e3,12,2,3 In 1 Kitchen,2,6.2,27.0,14
+190,https://foursquare.com/v/san-remo-pizzeria/4b5b3c86f964a52046ed28e3,4b5b3c86f964a52046ed28e3,39,17,San Remo Pizzeria,1,7.7,69.0,24
+191,https://foursquare.com/v/elegantes-pizzeria/4b5b956af964a520d50829e3,4b5b956af964a520d50829e3,15,3,Elegante's Pizzeria,1,6.9,27.0,5
+192,https://foursquare.com/v/ginos-villa-monte-pizzeria--restaurant/4b5b9fc8f964a520ca0b29e3,4b5b9fc8f964a520ca0b29e3,43,8,Gino's Villa Monte Pizzeria & Restaurant,1,7.5,69.0,23
+193,https://foursquare.com/v/pronto-pizza/4b5f2ff9f964a520e1ab29e3,4b5f2ff9f964a520e1ab29e3,6,1,Pronto Pizza,1,7.1,12.0,3
+194,https://foursquare.com/v/dannys-pizzeria-ii/4b5f96d7f964a52044c329e3,4b5f96d7f964a52044c329e3,18,6,Danny's Pizzeria II,1,6.6,34.0,9
+195,https://foursquare.com/v/ginos-pizzeria/4b608009f964a520fde929e3,4b608009f964a520fde929e3,49,4,Gino's Pizzeria,1,8.3,72.0,22
+196,https://foursquare.com/v/new-park-pizzeria/4b622630f964a52092382ae3,4b622630f964a52092382ae3,243,214,New Park Pizzeria,1,8.7,348.0,97
+197,https://foursquare.com/v/ginos-pizza/4b62355ef964a520523c2ae3,4b62355ef964a520523c2ae3,43,15,Gino's Pizza,1,8.2,68.0,22
+198,https://foursquare.com/v/mama-rosaria-pizza/4b6310d6f964a520ae602ae3,4b6310d6f964a520ae602ae3,0,0,Mama Rosaria Pizza,1,0.0,0.0,2
+199,https://foursquare.com/v/bennys-pizzeria/4b636d70f964a52001792ae3,4b636d70f964a52001792ae3,1,0,Benny's Pizzeria,1,0.0,0.0,3
+200,https://foursquare.com/v/angies-pizza--restaurant/4b63728ff964a5208d7a2ae3,4b63728ff964a5208d7a2ae3,1,1,Angie's Pizza & Restaurant,1,0.0,0.0,2
+201,https://foursquare.com/v/nunzios-pizzeria--restaurant/4b637736f964a520f17b2ae3,4b637736f964a520f17b2ae3,34,63,Nunzio's Pizzeria & Restaurant,1,7.9,56.0,20
+202,https://foursquare.com/v/slice--ice/4b637e58f964a5202f7e2ae3,4b637e58f964a5202f7e2ae3,0,0,Slice & Ice,1,0.0,0.0,0
+203,https://foursquare.com/v/ovest-pizzoteca-by-luzzos/4b6399a9f964a52011862ae3,4b6399a9f964a52011862ae3,302,295,Ovest Pizzoteca by Luzzo's,2,8.2,450.0,118
+204,https://foursquare.com/v/sicilys-best-pizzeria/4b64686bf964a520c6b02ae3,4b64686bf964a520c6b02ae3,14,10,Sicily's Best Pizzeria,1,7.6,28.0,11
+205,https://foursquare.com/v/papa-johns-pizza/4b64e55af964a52031d82ae3,4b64e55af964a52031d82ae3,1,1,Papa John's Pizza,1,6.2,6.0,2
+206,https://foursquare.com/v/grandmas-original-pizzeria/4b65e32ef964a52047062be3,4b65e32ef964a52047062be3,9,6,Grandma's Original Pizzeria,1,7.4,17.0,4
+207,https://foursquare.com/v/naomis-kosher-pizza/4b67494df964a520e9452be3,4b67494df964a520e9452be3,30,8,Naomi's Kosher Pizza,1,8.6,44.0,13
+208,https://foursquare.com/v/dinos-pizza--pasta/4b679046f964a5206a552be3,4b679046f964a5206a552be3,23,11,Dino's Pizza & Pasta,1,6.5,48.0,16
+209,https://foursquare.com/v/captains-pizza/4b67925df964a520ba552be3,4b67925df964a520ba552be3,15,3,Captain's Pizza,1,8.2,24.0,9
+210,https://foursquare.com/v/dangelos-italian-pizzeria--restaurant/4b68dab4f964a52043902be3,4b68dab4f964a52043902be3,11,3,D'Angelo's Italian Pizzeria & Restaurant,1,6.3,21.0,7
+211,https://foursquare.com/v/la-bella-pizza/4b6ca45cf964a520d0482ce3,4b6ca45cf964a520d0482ce3,0,1,La Bella Pizza,1,0.0,0.0,2
+212,https://foursquare.com/v/louies-pizzeria-and-restaurant/4b6db8ccf964a520a1892ce3,4b6db8ccf964a520a1892ce3,61,105,Louie's Pizzeria and Restaurant,1,9.2,88.0,25
+213,https://foursquare.com/v/kingdom-cafe/4b6eff67f964a520b1d52ce3,4b6eff67f964a520b1d52ce3,10,4,Kingdom Cafe,1,7.9,12.0,0
+214,https://foursquare.com/v/chuck-e-cheese/4b6f201bf964a520b8de2ce3,4b6f201bf964a520b8de2ce3,26,1,Chuck E. Cheese,0,6.2,45.0,9
+215,https://foursquare.com/v/papa-johns-pizza/4b6f3612f964a52085e42ce3,4b6f3612f964a52085e42ce3,1,0,Papa John's Pizza,1,6.4,4.0,2
+216,https://foursquare.com/v/plaza-cafeteria--mount-sinai-hospital/4b716531f964a5207f442de3,4b716531f964a5207f442de3,4,2,Plaza Cafeteria - Mount Sinai Hospital,2,5.0,24.0,12
+217,https://foursquare.com/v/petaluma/4b720a32f964a5209b6b2de3,4b720a32f964a5209b6b2de3,37,52,Petaluma,4,6.9,72.0,27
+218,https://foursquare.com/v/knapp-pizza-iii/4b7437e5f964a520d0cd2de3,4b7437e5f964a520d0cd2de3,8,0,Knapp Pizza III,1,7.6,21.0,11
+219,https://foursquare.com/v/pier-76-italian-restaurant/4b76d8dbf964a520be632ee3,4b76d8dbf964a520be632ee3,75,65,Pier 76 Italian Restaurant,1,8.5,124.0,43
+220,https://foursquare.com/v/pizza-chef/4b76ef61f964a520216c2ee3,4b76ef61f964a520216c2ee3,24,4,Pizza Chef,1,7.0,41.0,6
+221,https://foursquare.com/v/brothers-pizza/4b79b276f964a520e70b2fe3,4b79b276f964a520e70b2fe3,104,82,Brother's Pizza,2,9.1,149.0,44
+222,https://foursquare.com/v/angelos-pizza--restaurant/4b7c363df964a520ce842fe3,4b7c363df964a520ce842fe3,24,6,Angelo's Pizza & Restaurant,1,8.6,32.0,6
+223,https://foursquare.com/v/amore-pizzeria/4b7c7ddff964a5209c962fe3,4b7c7ddff964a5209c962fe3,72,46,Amore Pizzeria,1,8.5,118.0,52
+224,https://foursquare.com/v/primo-pizzeria/4b80859df964a520b47930e3,4b80859df964a520b47930e3,9,1,Primo Pizzeria,1,7.8,12.0,2
+225,https://foursquare.com/v/bella-napoli/4b81a196f964a520fdb330e3,4b81a196f964a520fdb330e3,3,3,Bella Napoli,1,0.0,0.0,4
+226,https://foursquare.com/v/morris-park-pizza/4b82c608f964a52001e430e3,4b82c608f964a52001e430e3,13,6,Morris Park Pizza,1,8.3,19.0,6
+227,https://foursquare.com/v/justinos-pizzeria/4b82c961f964a520dfe430e3,4b82c961f964a520dfe430e3,35,26,Justino's Pizzeria,1,7.0,71.0,35
+228,https://foursquare.com/v/romeos-pizza/4b847f25f964a520cf3831e3,4b847f25f964a520cf3831e3,12,6,Romeo's Pizza,1,7.1,29.0,20
+229,https://foursquare.com/v/sorrento-pizzeria/4b86e7d7f964a5201ea531e3,4b86e7d7f964a5201ea531e3,16,2,Sorrento Pizzeria,1,7.6,33.0,17
+230,https://foursquare.com/v/grace-pizza/4b872a4df964a52034b431e3,4b872a4df964a52034b431e3,24,1,Grace Pizza,1,8.3,36.0,10
+231,https://foursquare.com/v/napolis-pizzeria/4b8775dff964a520e0bf31e3,4b8775dff964a520e0bf31e3,24,13,Napoli's Pizzeria,1,7.8,43.0,23
+232,https://foursquare.com/v/dominos-pizza/4b88126af964a52096dd31e3,4b88126af964a52096dd31e3,7,0,Domino's Pizza,1,6.5,13.0,2
+233,https://foursquare.com/v/barios/4b8ad075f964a520da8232e3,4b8ad075f964a520da8232e3,5,1,Bario's,1,5.8,15.0,8
+234,https://foursquare.com/v/ljubos-pizza/4b8c6d1bf964a5203dd032e3,4b8c6d1bf964a5203dd032e3,6,4,Ljubo's Pizza,1,7.2,16.0,14
+235,https://foursquare.com/v/danis-house-of-pizza/4b8ee961f964a5203d3e33e3,4b8ee961f964a5203d3e33e3,233,177,Dani's House of Pizza,1,8.4,358.0,116
+236,https://foursquare.com/v/ginos-brick-oven-pizza-and-trattoria/4b905bbcf964a5200f8633e3,4b905bbcf964a5200f8633e3,31,28,Gino's Brick Oven Pizza and Trattoria,1,7.6,60.0,29
+237,https://foursquare.com/v/albas-pizzeria--restaurant/4b905f23f964a520b08633e3,4b905f23f964a520b08633e3,33,5,Alba's Pizzeria & Restaurant,1,7.0,61.0,23
+238,https://foursquare.com/v/famous-original-rays-pizza/4b91abc8f964a520bece33e3,4b91abc8f964a520bece33e3,112,32,Famous Original Ray's Pizza,2,6.1,220.0,50
+239,https://foursquare.com/v/benjys-kosher-pizza--falafel/4b93fe04f964a520a75f34e3,4b93fe04f964a520a75f34e3,6,2,Benjy's Kosher Pizza & Falafel,1,6.8,11.0,4
+240,https://foursquare.com/v/loduca-pizza/4b9543f7f964a520e99834e3,4b9543f7f964a520e99834e3,26,25,LoDuca Pizza,1,7.7,49.0,18
+241,https://foursquare.com/v/sunnyside-pizza/4b968e38f964a52054d434e3,4b968e38f964a52054d434e3,73,52,Sunnyside Pizza,1,8.9,107.0,33
+242,https://foursquare.com/v/paulie-gees/4b9709fcf964a520c4f434e3,4b9709fcf964a520c4f434e3,1243,3212,Paulie Gee’s,2,9.3,1595.0,395
+243,https://foursquare.com/v/palace-fried-chicken/4b9793fbf964a520bc0935e3,4b9793fbf964a520bc0935e3,19,5,Palace Fried Chicken,1,5.7,43.0,10
+244,https://foursquare.com/v/famous-famiglia/4b9862c1f964a520673f35e3,4b9862c1f964a520673f35e3,51,13,Famous Famiglia,1,6.9,102.0,32
+245,https://foursquare.com/v/lucia-pizza/4b9beb47f964a520c53536e3,4b9beb47f964a520c53536e3,89,47,Lucia Pizza,1,8.5,131.0,43
+246,https://foursquare.com/v/2-bros-pizza/4b9c3c35f964a5209f5736e3,4b9c3c35f964a5209f5736e3,185,122,2 Bros. Pizza,1,7.9,290.0,91
+247,https://foursquare.com/v/ginos-pizzeria--restaurant/4b9c43bdf964a5202e5a36e3,4b9c43bdf964a5202e5a36e3,80,16,Gino's Pizzeria & Restaurant,2,8.3,119.0,32
+248,https://foursquare.com/v/villa-rustica-ristorante--pizza/4b9c519ef964a520065f36e3,4b9c519ef964a520065f36e3,13,5,Villa Rustica Ristorante & Pizza,2,7.6,30.0,13
+249,https://foursquare.com/v/michael--sons-pizza--italian-food/4b9fb37ef964a5203c3637e3,4b9fb37ef964a5203c3637e3,9,0,Michael & Sons Pizza & Italian Food,1,6.8,17.0,6
+250,https://foursquare.com/v/original-joes-pizza/4ba10dc5f964a520019337e3,4ba10dc5f964a520019337e3,4,1,Original Joe's Pizza,1,0.0,0.0,1
+251,https://foursquare.com/v/prima-pizza/4ba13a20f964a520e5a337e3,4ba13a20f964a520e5a337e3,3,0,Prima Pizza,1,0.0,0.0,8
+252,https://foursquare.com/v/pizza-hut/4ba2bf47f964a520db1538e3,4ba2bf47f964a520db1538e3,5,2,Pizza Hut,1,6.5,12.0,6
+253,https://foursquare.com/v/pizza-hut/4ba2c6d0f964a520641838e3,4ba2c6d0f964a520641838e3,4,1,Pizza Hut,1,5.7,11.0,3
+254,https://foursquare.com/v/whitepoint-pizzeria/4ba3a60df964a520dd4f38e3,4ba3a60df964a520dd4f38e3,2,1,Whitepoint Pizzeria,1,0.0,0.0,5
+255,https://foursquare.com/v/vincents-bagels/4ba3d7d6f964a520a16538e3,4ba3d7d6f964a520a16538e3,7,0,Vincent's Bagels,1,6.6,16.0,11
+256,https://foursquare.com/v/uno-pizzeria--grill/4ba3fa59f964a520c27338e3,4ba3fa59f964a520c27338e3,44,6,UNO Pizzeria & Grill,2,6.5,86.0,23
+257,https://foursquare.com/v/ciro/4ba42ec8f964a520c48938e3,4ba42ec8f964a520c48938e3,24,5,Ciro,3,7.9,35.0,8
+258,https://foursquare.com/v/katonah-pizza-and-pasta/4ba50da6f964a52046d638e3,4ba50da6f964a52046d638e3,21,8,Katonah Pizza and Pasta,1,8.4,29.0,8
+259,https://foursquare.com/v/tommys-pizza/4ba69641f964a520a66039e3,4ba69641f964a520a66039e3,1,0,Tommy's Pizza,1,0.0,0.0,1
+260,https://foursquare.com/v/pregos-pizza/4ba7da51f964a520feb839e3,4ba7da51f964a520feb839e3,1,0,Prego's Pizza,1,5.7,8.0,5
+261,https://foursquare.com/v/angelos-pizza/4ba7da81f964a5200fb939e3,4ba7da81f964a5200fb939e3,5,0,Angelo's Pizza,1,6.3,10.0,3
+262,https://foursquare.com/v/dominos-pizza/4ba807a4f964a52097c739e3,4ba807a4f964a52097c739e3,3,1,Domino's Pizza,1,6.0,12.0,4
+263,https://foursquare.com/v/davincis-pizzeria/4baa49f2f964a520785b3ae3,4baa49f2f964a520785b3ae3,27,30,DaVinci's Pizzeria,1,8.0,39.0,14
+264,https://foursquare.com/v/domenicos-pizza/4bad397bf964a520403b3be3,4bad397bf964a520403b3be3,3,2,Domenico's Pizza,1,0.0,0.0,5
+265,https://foursquare.com/v/crosby-pizza/4bad3ad4f964a520cc3b3be3,4bad3ad4f964a520cc3b3be3,17,6,Crosby Pizza,1,8.2,24.0,7
+266,https://foursquare.com/v/pizza-time/4baec97df964a520fed73be3,4baec97df964a520fed73be3,14,18,Pizza Time,1,7.1,25.0,8
+267,https://foursquare.com/v/dominos-pizza/4baf7ac6f964a52042033ce3,4baf7ac6f964a52042033ce3,3,0,Domino's Pizza,1,6.2,8.0,3
+268,https://foursquare.com/v/domenicks-pizza/4bb0ad1bf964a5202a543ce3,4bb0ad1bf964a5202a543ce3,3,0,Domenick's Pizza,1,5.8,10.0,8
+269,https://foursquare.com/v/sams-pizza/4bb114c4f964a520b9783ce3,4bb114c4f964a520b9783ce3,29,14,Sam's Pizza,1,9.0,49.0,17
+270,https://foursquare.com/v/luna-pizza/4bb239b6a32876b0ea4e00fe,4bb239b6a32876b0ea4e00fe,2,0,Luna Pizza,1,0.0,0.0,2
+271,https://foursquare.com/v/victorias-pizzeria/4bb3d62d2397b713d8b138b3,4bb3d62d2397b713d8b138b3,5,2,Victoria's Pizzeria,1,6.4,12.0,8
+272,https://foursquare.com/v/lees-tavern/4bb3eb3d9af3b71390c28b28,4bb3eb3d9af3b71390c28b28,118,155,Lee's Tavern,2,8.8,173.0,47
+273,https://foursquare.com/v/villa-monte-pizzeria--restaurant/4bb4c4c8613fb713e62594e6,4bb4c4c8613fb713e62594e6,12,5,Villa Monte Pizzeria & Restaurant,1,7.7,19.0,7
+274,https://foursquare.com/v/sals-pizzeria/4bb626e0f562ef3b2fb32f97,4bb626e0f562ef3b2fb32f97,17,2,Sal's Pizzeria,1,7.9,26.0,11
+275,https://foursquare.com/v/lenny--johns-pizza/4bb677992f70c9b637798530,4bb677992f70c9b637798530,86,37,Lenny & John's Pizza,2,8.4,125.0,47
+276,https://foursquare.com/v/as-pizzeria/4bb6924c46d4a5938e7ac6c0,4bb6924c46d4a5938e7ac6c0,10,1,A&S Pizzeria,1,8.0,16.0,5
+277,https://foursquare.com/v/rocco-pizza/4bb6a644941ad13a8ad01fe3,4bb6a644941ad13a8ad01fe3,39,22,Rocco Pizza,1,7.0,71.0,26
+278,https://foursquare.com/v/la-villa/4bb6dd862ea19521855dac2f,4bb6dd862ea19521855dac2f,54,3,La Villa,2,7.9,81.0,18
+279,https://foursquare.com/v/ninos-pizza/4bb7d799314e9521cacc479d,4bb7d799314e9521cacc479d,31,46,Nino's Pizza,2,8.5,55.0,24
+280,https://foursquare.com/v/la-sorrentina-ristorante/4bb907b5314e9521e30f499d,4bb907b5314e9521e30f499d,26,19,La Sorrentina Ristorante,2,7.2,47.0,14
+281,https://foursquare.com/v/nicks-pizza/4bba4eeeb35776b0edc4ca01,4bba4eeeb35776b0edc4ca01,57,16,Nicks Pizza,2,8.6,84.0,19
+282,https://foursquare.com/v/towne-deli-pizzeria/4bba5d1b98c7ef3bf2023302,4bba5d1b98c7ef3bf2023302,1,1,Towne Deli Pizzeria,1,0.0,0.0,0
+283,https://foursquare.com/v/mama-tinas-pizza/4bba833e3db7b7130e6e239a,4bba833e3db7b7130e6e239a,7,4,Mama Tinas Pizza,1,6.5,15.0,7
+284,https://foursquare.com/v/gabriellas-family-pizza/4bbbc13851b89c7413a9862a,4bbbc13851b89c7413a9862a,2,1,Gabriella's Family Pizza,1,5.8,8.0,3
+285,https://foursquare.com/v/romeos-pizza/4bbcbe1da0a0c9b60eb81a0f,4bbcbe1da0a0c9b60eb81a0f,22,3,Romeo's Pizza,1,8.0,34.0,9
+286,https://foursquare.com/v/angelos-pizza/4bbd1899a8cf76b02169b1fd,4bbd1899a8cf76b02169b1fd,0,2,Angelos Pizza,2,0.0,0.0,1
+287,https://foursquare.com/v/freddys-pizzeria/4bbe6c3585fbb7138bc87067,4bbe6c3585fbb7138bc87067,13,9,Freddy's Pizzeria,1,7.6,21.0,6
+288,https://foursquare.com/v/nellys-corner/4bbf64f198f495214594d263,4bbf64f198f495214594d263,4,1,Nelly's Corner,1,6.5,11.0,6
+289,https://foursquare.com/v/phil--sons-pizzeria/4bc10798abf495211067c093,4bc10798abf495211067c093,9,2,Phil & Son's Pizzeria,1,6.1,20.0,11
+290,https://foursquare.com/v/papa-johns-pizza/4bc4a82aabf495217057c593,4bc4a82aabf495217057c593,0,1,Papa John's Pizza,1,6.5,1.0,0
+291,https://foursquare.com/v/via-ponte/4bc4df404cdfc9b60a4a9921,4bc4df404cdfc9b60a4a9921,0,0,Via Ponte,1,0.0,0.0,1
+292,https://foursquare.com/v/gotham-pizza/4bc78fb015a7ef3b10a579da,4bc78fb015a7ef3b10a579da,16,11,Gotham Pizza,1,6.4,36.0,11
+293,https://foursquare.com/v/luigis-pizza/4bc8e01e0687ef3b1bcdd8cc,4bc8e01e0687ef3b1bcdd8cc,4,1,Luigi's Pizza,1,6.2,8.0,3
+294,https://foursquare.com/v/rosarios/4bca03553740b713fecc5f65,4bca03553740b713fecc5f65,52,139,Rosario's,1,9.0,79.0,29
+295,https://foursquare.com/v/franks-pizza/4bca37c5cc8cd13a1f42bdcf,4bca37c5cc8cd13a1f42bdcf,18,22,Franks Pizza,1,8.6,32.0,13
+296,https://foursquare.com/v/tonys-pizzeria--restaurant/4bcb3f9ccc8cd13aa0f2becf,4bcb3f9ccc8cd13aa0f2becf,16,2,Tony's Pizzeria & Restaurant,1,7.6,27.0,8
+297,https://foursquare.com/v/mr-pizzas-pasta-house/4bcc87a60687ef3b3961dfcc,4bcc87a60687ef3b3961dfcc,2,0,Mr. Pizza's Pasta House,1,0.0,0.0,3
+298,https://foursquare.com/v/family-pizza/4bccce5868f976b0c44d6383,4bccce5868f976b0c44d6383,18,7,Family Pizza,1,7.3,31.0,12
+299,https://foursquare.com/v/la-piazza/4bcdd7f50687ef3bf388e1cc,4bcdd7f50687ef3bf388e1cc,15,3,La Piazza,1,7.5,34.0,18
+300,https://foursquare.com/v/pronto-pizza/4bcddf9f511f95211255b5c7,4bcddf9f511f95211255b5c7,19,1,Pronto Pizza,1,7.4,31.0,5
+301,https://foursquare.com/v/enzos-pizzeria/4bcf28e0b221c9b61b6fd1d0,4bcf28e0b221c9b61b6fd1d0,6,1,Enzo's Pizzeria,1,6.3,12.0,3
+302,https://foursquare.com/v/ginos-restaurant/4bd075f2caff952145d3cef0,4bd075f2caff952145d3cef0,138,58,Gino's Restaurant,2,8.5,203.0,57
+303,https://foursquare.com/v/plum-tomatoes/4bd0c0cecaff9521b878cff0,4bd0c0cecaff9521b878cff0,5,3,Plum Tomatoes,2,6.1,12.0,16
+304,https://foursquare.com/v/circle-pizza/4bd23b3fcaff95216c6ed2f0,4bd23b3fcaff95216c6ed2f0,9,4,Circle Pizza,1,6.6,20.0,9
+305,https://foursquare.com/v/new-lane-pizzeria-and-restaurant/4bd34db977b29c747a7e9082,4bd34db977b29c747a7e9082,4,0,New Lane Pizzeria And Restaurant,1,0.0,0.0,5
+306,https://foursquare.com/v/angelas-pizza/4bd362c677b29c74abb99082,4bd362c677b29c74abb99082,3,0,Angela's Pizza,1,0.0,0.0,2
+307,https://foursquare.com/v/pizza-garden/4bd3afcd462cb713701fdf07,4bd3afcd462cb713701fdf07,21,16,Pizza Garden,1,8.9,29.0,8
+308,https://foursquare.com/v/lj-pizza/4bd609bc6798ef3b0c76648d,4bd609bc6798ef3b0c76648d,3,1,LJ Pizza,1,6.5,11.0,7
+309,https://foursquare.com/v/papa-johns-pizza/4bd881550b779c74765407a0,4bd881550b779c74765407a0,3,2,Papa John's Pizza,1,5.8,10.0,3
+310,https://foursquare.com/v/marios-pizzeria/4bd8a0b111dcc928b41af733,4bd8a0b111dcc928b41af733,9,0,Marios Pizzeria,1,7.4,16.0,7
+311,https://foursquare.com/v/j--s-pizza/4bd980d40115c9b672777780,4bd980d40115c9b672777780,12,0,J & S Pizza,1,7.8,17.0,5
+312,https://foursquare.com/v/pizza-doro/4bdb3120383276b06ba87369,4bdb3120383276b06ba87369,0,1,Pizza Doro,1,0.0,0.0,0
+313,https://foursquare.com/v/dominos-pizza/4bdb72dfc79cc928dfe382e9,4bdb72dfc79cc928dfe382e9,2,0,Domino's Pizza,1,5.9,6.0,2
+314,https://foursquare.com/v/jb-pizza/4bdc8d00fed22d7fdbb258c9,4bdc8d00fed22d7fdbb258c9,2,0,J&B Pizza,1,5.2,9.0,6
+315,https://foursquare.com/v/whitepoint-pizza/4bdda6f10ee3a59360172eb0,4bdda6f10ee3a59360172eb0,5,0,Whitepoint Pizza,1,6.9,8.0,2
+316,https://foursquare.com/v/pizza-d-amore/4bdf45b90ee3a5932a9433b0,4bdf45b90ee3a5932a9433b0,42,3,Pizza D' Amore,2,8.0,60.0,16
+317,https://foursquare.com/v/coppolas-pizza--restaurant/4be1be18edbb0f479588a615,4be1be18edbb0f479588a615,8,6,Coppola's Pizza & Restaurant,1,6.8,17.0,7
+318,https://foursquare.com/v/pizza-hut/4be1dfb9ae55a59336d55b62,4be1dfb9ae55a59336d55b62,15,5,Pizza Hut,1,6.8,24.0,5
+319,https://foursquare.com/v/j--l-st-albans-pizzeria/4be221d7f07b0f478fdff443,4be221d7f07b0f478fdff443,0,0,J & L St. Albans Pizzeria,1,0.0,0.0,0
+320,https://foursquare.com/v/farmers-pizza--grill/4be33dd4b02ec9b6d6f64ec0,4be33dd4b02ec9b6d6f64ec0,8,2,Farmers Pizza & Grill,1,7.2,11.0,3
+321,https://foursquare.com/v/broadway-pizza--pasta/4be72770910020a16f1ad514,4be72770910020a16f1ad514,12,2,Broadway Pizza & Pasta,1,7.5,16.0,2
+322,https://foursquare.com/v/ginos-pizzeria/4be7452fbcef2d7f6e1806e5,4be7452fbcef2d7f6e1806e5,4,0,Ginos pizzeria,1,0.0,0.0,3
+323,https://foursquare.com/v/uno-pizzeria--grill--bayside/4be757c0aecb76b039905a80,4be757c0aecb76b039905a80,62,7,Uno Pizzeria & Grill - Bayside,2,7.0,108.0,37
+324,https://foursquare.com/v/sergios-pizza/4be8822f9a54a593310f0a11,4be8822f9a54a593310f0a11,6,1,Sergio's Pizza,1,0.0,0.0,1
+325,https://foursquare.com/v/dominos-pizza/4be8b2a5c5220f473f1daaca,4be8b2a5c5220f473f1daaca,2,1,Domino's Pizza,1,5.8,6.0,3
+326,https://foursquare.com/v/the-square/4be996d26295c9b619668508,4be996d26295c9b619668508,8,8,The Square,1,7.5,12.0,3
+327,https://foursquare.com/v/slices-n-ices/4bed7060bac3c9b68942fee9,4bed7060bac3c9b68942fee9,4,4,Slices n Ices,1,6.1,10.0,7
+328,https://foursquare.com/v/baris-pizza--pasta/4bf02b85c601a593c15bc3d1,4bf02b85c601a593c15bc3d1,8,0,Bari's Pizza & Pasta,1,7.4,14.0,5
+329,https://foursquare.com/v/anthony--sals-catering-pizza-express/4bf0425f3a002d7f39e585a4,4bf0425f3a002d7f39e585a4,2,0,Anthony & Sal's Catering Pizza Express,1,0.0,0.0,1
+330,https://foursquare.com/v/nonnas/4bf0737d6f8aa593b8e8c13c,4bf0737d6f8aa593b8e8c13c,9,4,Nonna's,1,7.6,18.0,7
+331,https://foursquare.com/v/chubby-burgers-chicken-and-pizza/4bf2ad7782002d7fd5cfd0bb,4bf2ad7782002d7fd5cfd0bb,8,6,CHUBBY BURGERS chicken and pizza,1,7.5,16.0,7
+332,https://foursquare.com/v/best-italian-pizza/4bf329ef2d62952165ec5f58,4bf329ef2d62952165ec5f58,15,1,Best Italian Pizza,1,7.4,26.0,13
+333,https://foursquare.com/v/bennys-pizza-restaurant/4bf3a0142d629521deff5f58,4bf3a0142d629521deff5f58,7,1,Benny's Pizza Restaurant,1,7.7,14.0,5
+334,https://foursquare.com/v/papa-johns-pizza/4bf4035e98ac0f47d87563a8,4bf4035e98ac0f47d87563a8,0,0,Papa John's Pizza,1,6.3,2.0,1
+335,https://foursquare.com/v/johns-pizza/4bf55fe7e5eba593f3ad2090,4bf55fe7e5eba593f3ad2090,29,12,John's Pizza,1,8.7,59.0,24
+336,https://foursquare.com/v/pizza-port/4bf57ddb98ac0f47653365a8,4bf57ddb98ac0f47653365a8,25,2,Pizza Port,1,7.7,47.0,16
+337,https://foursquare.com/v/corato-ii/4bf5e6744d5f20a1b07898fe,4bf5e6744d5f20a1b07898fe,17,0,Corato II,1,7.0,31.0,12
+338,https://foursquare.com/v/giannis-pizza--italian-restaurant/4bf6e3f2c07c9c74fe88bbef,4bf6e3f2c07c9c74fe88bbef,1,9,Gianni's Pizza & Italian Restaurant,1,8.0,9.0,9
+339,https://foursquare.com/v/cafe-milano/4bf872974a67c928b57725cf,4bf872974a67c928b57725cf,19,3,Cafe Milano,3,7.8,30.0,6
+340,https://foursquare.com/v/pizza-palace/4bf9af8c5317a59324b5017f,4bf9af8c5317a59324b5017f,42,21,Pizza Palace,1,8.6,61.0,17
+341,https://foursquare.com/v/pizza-hut/4bfa092f633d9c7415fd0743,4bfa092f633d9c7415fd0743,38,3,Pizza Hut,2,6.6,62.0,9
+342,https://foursquare.com/v/villa-maria-restaurant/4bfb2ac2f214a593adebae0e,4bfb2ac2f214a593adebae0e,1,1,Villa Maria Restaurant,1,0.0,0.0,1
+343,https://foursquare.com/v/buonissima/4bfd3db64cf820a1f320ecf4,4bfd3db64cf820a1f320ecf4,3,0,Buonissima,1,0.0,0.0,1
+344,https://foursquare.com/v/bellerose-famous-pizza/4bfecab9ca1920a1d6d9eb81,4bfecab9ca1920a1d6d9eb81,5,2,Bellerose Famous Pizza,1,6.3,8.0,4
+345,https://foursquare.com/v/mikes-pizza/4bff1343daf9c9b67bc0f9ef,4bff1343daf9c9b67bc0f9ef,11,4,Mike's Pizza,1,6.5,25.0,9
+346,https://foursquare.com/v/la-nostra-pizzeria/4bffe7dd92a6c928d44443e2,4bffe7dd92a6c928d44443e2,20,11,La Nostra Pizzeria,1,7.4,31.0,5
+347,https://foursquare.com/v/chuck-e-cheese/4c016ef4b0702d7f71416378,4c016ef4b0702d7f71416378,18,4,Chuck E. Cheese,0,5.4,43.0,8
+348,https://foursquare.com/v/taste-of-italy-pizza-restaurant/4c0303470d0e0f47dc08029a,4c0303470d0e0f47dc08029a,11,3,Taste of Italy Pizza Restaurant,1,7.2,17.0,4
+349,https://foursquare.com/v/abitinos-pizzeria/4c069a41b4aa0f47b65c6462,4c069a41b4aa0f47b65c6462,26,2,Abitino's Pizzeria,1,5.8,56.0,13
+350,https://foursquare.com/v/original-pizza/4c069b5e2e80a5938e5f74f9,4c069b5e2e80a5938e5f74f9,0,0,Original Pizza,1,0.0,0.0,2
+351,https://foursquare.com/v/johns-pizzeria/4c06f6e58a81c9b6c0972690,4c06f6e58a81c9b6c0972690,5,9,John's Pizzeria,1,0.0,0.0,4
+352,https://foursquare.com/v/labella-mariella-pizzeria/4c06fcc0cf8c76b0cd6b3b65,4c06fcc0cf8c76b0cd6b3b65,11,4,Labella Mariella Pizzeria,1,6.8,17.0,3
+353,https://foursquare.com/v/dileos-pizzeria/4c07cd37c69aa593bacc9ba2,4c07cd37c69aa593bacc9ba2,13,0,DiLeo's Pizzeria,1,7.3,18.0,5
+354,https://foursquare.com/v/via-ponte-pizzeria/4c0806a4009a0f473473e5bf,4c0806a4009a0f473473e5bf,7,1,Via Ponte Pizzeria,1,8.2,9.0,2
+355,https://foursquare.com/v/pinos-pizzeria/4c084338bbc676b0525146d5,4c084338bbc676b0525146d5,4,1,Pino's Pizzeria,1,6.2,13.0,9
+356,https://foursquare.com/v/goodfellas-pizza--restaurant/4c0ae6aa6071a5938474e032,4c0ae6aa6071a5938474e032,32,18,Goodfella's Pizza & Restaurant,1,8.4,53.0,16
+357,https://foursquare.com/v/ozone-pizzeria/4c0aea66340720a1875b8793,4c0aea66340720a1875b8793,18,3,Ozone Pizzeria,1,8.0,31.0,13
+358,https://foursquare.com/v/il-forno/4c0bdf0effb8c9b66edf6d61,4c0bdf0effb8c9b66edf6d61,9,0,Il Forno,1,7.4,17.0,5
+359,https://foursquare.com/v/cropsey-restaurant--pizzeria/4c0d1e0b2466a593520f7721,4c0d1e0b2466a593520f7721,4,1,Cropsey Restaurant & Pizzeria,1,7.7,8.0,3
+360,https://foursquare.com/v/pizza-hut/4c0fe956b93cc9b6f4e855e0,4c0fe956b93cc9b6f4e855e0,11,0,Pizza Hut,1,5.4,28.0,7
+361,https://foursquare.com/v/ginos-pizza/4c10206dce57c9283f6581d2,4c10206dce57c9283f6581d2,0,0,Gino's Pizza,1,0.0,0.0,0
+362,https://foursquare.com/v/pizza-den/4c13d2c87f7f2d7fa2c7df68,4c13d2c87f7f2d7fa2c7df68,9,0,Pizza Den,1,6.7,21.0,13
+363,https://foursquare.com/v/pronto-pizza/4c15013882a3c9b65c0dfef8,4c15013882a3c9b65c0dfef8,2,0,Pronto Pizza,1,0.0,0.0,2
+364,https://foursquare.com/v/cascarinos/4c153905a9c220a1d4cd589d,4c153905a9c220a1d4cd589d,30,5,Cascarino's,1,8.2,39.0,6
+365,https://foursquare.com/v/riviera-ristorante/4c15679fa5eb76b00954c3b7,4c15679fa5eb76b00954c3b7,16,3,Riviera Ristorante,2,7.7,26.0,8
+366,https://foursquare.com/v/sofias-pizza/4c17a3dcf256a593b7ddec3e,4c17a3dcf256a593b7ddec3e,13,5,Sofia's Pizza,1,7.3,28.0,14
+367,https://foursquare.com/v/jm-pizza/4c1b78293b2ab71309263325,4c1b78293b2ab71309263325,1,1,J-M Pizza,1,0.0,0.0,0
+368,https://foursquare.com/v/villa-monte-pizzeria--restaurant/4c1d6a60b306c9282d9765b7,4c1d6a60b306c9282d9765b7,5,1,Villa Monte Pizzeria & Restaurant,1,0.0,0.0,1
+369,https://foursquare.com/v/chuck-e-cheese/4c1fb230fcf8c9b6550caf0b,4c1fb230fcf8c9b6550caf0b,15,6,Chuck E. Cheese,0,5.3,39.0,12
+370,https://foursquare.com/v/cestras-pizza-iii/4c210c3b132f0f472baba796,4c210c3b132f0f472baba796,2,0,Cestra's Pizza III,1,0.0,0.0,4
+371,https://foursquare.com/v/blake--todd/4c24dcaaf7ced13a0484236d,4c24dcaaf7ced13a0484236d,14,8,Blake & Todd,2,7.6,23.0,10
+372,https://foursquare.com/v/pronto-pizza/4c252444905a0f47fdfd6060,4c252444905a0f47fdfd6060,13,8,Pronto Pizza,1,8.5,26.0,12
+373,https://foursquare.com/v/tbrothers-pizzeria/4c2e5ac266e40f479a13c08b,4c2e5ac266e40f479a13c08b,4,0,T-Brothers Pizzeria,1,0.0,0.0,0
+374,https://foursquare.com/v/restaurant-on-the-plaza-pizzeria/4c2e751316adc92871efbb9c,4c2e751316adc92871efbb9c,3,2,Restaurant on the Plaza Pizzeria,1,0.0,0.0,2
+375,https://foursquare.com/v/jentanas-pizza/4c33b042a0ced13ae20c176e,4c33b042a0ced13ae20c176e,11,2,Jentana's Pizza,1,8.1,14.0,3
+376,https://foursquare.com/v/lennys-pizza/4c3659ad0a71c9b681003dc9,4c3659ad0a71c9b681003dc9,17,7,Lenny's Pizza,1,6.7,44.0,22
+377,https://foursquare.com/v/vi-pizza/4c366602dfb0e21e580aaba8,4c366602dfb0e21e580aaba8,58,25,VI Pizza,1,8.1,78.0,25
+378,https://foursquare.com/v/jacks-pizza--pasta/4c38b8cd2c8020a121568b00,4c38b8cd2c8020a121568b00,13,0,Jack's Pizza & Pasta,1,6.9,23.0,8
+379,https://foursquare.com/v/tomato-n-basil-ii/4c3a14ab1e06d13a99b17a3e,4c3a14ab1e06d13a99b17a3e,0,0,Tomato N Basil II,1,0.0,0.0,2
+380,https://foursquare.com/v/napolis-pizza/4c3c82a417f2ef3bcf1381f4,4c3c82a417f2ef3bcf1381f4,16,5,Napoli's Pizza,1,8.4,29.0,17
+381,https://foursquare.com/v/dominos-pizza/4c3cd6357d002d7f13fdae18,4c3cd6357d002d7f13fdae18,0,0,Domino's Pizza,1,6.4,1.0,0
+382,https://foursquare.com/v/little-caesars-pizza/4c3cffbcb36ac92885e90486,4c3cffbcb36ac92885e90486,10,3,Little Caesars Pizza,1,7.3,15.0,4
+383,https://foursquare.com/v/giuseppes-pizza-thin-and-crispy/4c3e08ca1ef0d13ab1bc9180,4c3e08ca1ef0d13ab1bc9180,2,0,Giuseppes Pizza Thin And Crispy,1,0.0,0.0,4
+384,https://foursquare.com/v/michelangelos-pizza/4c3f3da415e8ef3b8e63300e,4c3f3da415e8ef3b8e63300e,2,0,Michelangelo's Pizza,1,0.0,0.0,2
+385,https://foursquare.com/v/sunset-pizzeria/4c3f96a2cc410f47af69a861,4c3f96a2cc410f47af69a861,2,0,Sunset Pizzeria,1,0.0,0.0,3
+386,https://foursquare.com/v/dominos-pizza/4c3fa75eda3dc928d63fc6b9,4c3fa75eda3dc928d63fc6b9,4,2,Domino's Pizza,1,6.8,5.0,1
+387,https://foursquare.com/v/tommys-pizza/4c49bc3da3ace21e426f033c,4c49bc3da3ace21e426f033c,9,2,Tommy's Pizza,1,7.6,22.0,13
+388,https://foursquare.com/v/little-caesars-pizza/4c4a1fda5609c9b68012378f,4c4a1fda5609c9b68012378f,10,0,Little Caesars Pizza,1,7.4,15.0,8
+389,https://foursquare.com/v/giovannis-trattoria/4c4a44f9bad7a593ee641daa,4c4a44f9bad7a593ee641daa,10,1,Giovannis Trattoria,2,7.5,14.0,4
+390,https://foursquare.com/v/ciros/4c4b59c342b4d13ad8e88b7e,4c4b59c342b4d13ad8e88b7e,0,0,Ciros,1,0.0,0.0,2
+391,https://foursquare.com/v/ciros-italian-restaurant/4c4b60c7c668e21ec867f9f9,4c4b60c7c668e21ec867f9f9,6,5,Ciro's Italian Restaurant,1,7.0,11.0,5
+392,https://foursquare.com/v/papa-johns-pizza/4c4b6e9e9c8d2d7f6975f06a,4c4b6e9e9c8d2d7f6975f06a,1,0,Papa John's Pizza,1,5.8,9.0,6
+393,https://foursquare.com/v/airways-pizza-gyro--restaurant/4c4ca3d974e81b8d841a9006,4c4ca3d974e81b8d841a9006,28,7,"Airways Pizza, Gyro & Restaurant",1,8.1,37.0,7
+394,https://foursquare.com/v/copacabana-brazilian-restaurant/4c4f33b824edc9b633ab4ebb,4c4f33b824edc9b633ab4ebb,90,72,Copacabana Brazilian Restaurant,2,8.4,129.0,47
+395,https://foursquare.com/v/village-maria-pizza/4c51e45fb6dabe9a9bf97812,4c51e45fb6dabe9a9bf97812,14,2,Village Maria Pizza,1,8.5,19.0,5
+396,https://foursquare.com/v/i-love-ny-pizza/4c52180d9d642d7f5052a2de,4c52180d9d642d7f5052a2de,2,0,I Love NY Pizza,1,0.0,0.0,0
+397,https://foursquare.com/v/broadway-joes-pizza/4c59fc675c57c9b67b3b1c4a,4c59fc675c57c9b67b3b1c4a,13,17,Broadway Joe's Pizza,2,7.7,25.0,11
+398,https://foursquare.com/v/cross-bronx-pizzeria/4c5c35e32815c9280657b167,4c5c35e32815c9280657b167,16,5,Cross Bronx Pizzeria,1,7.2,26.0,12
+399,https://foursquare.com/v/glendale-pizza/4c5ce21185a1e21e4a265811,4c5ce21185a1e21e4a265811,14,2,Glendale Pizza,1,7.5,22.0,6
+400,https://foursquare.com/v/roccos-pizza-restaurant/4c5db38e6ebe2d7faca1d32e,4c5db38e6ebe2d7faca1d32e,3,0,Rocco's Pizza Restaurant,1,0.0,0.0,4
+401,https://foursquare.com/v/napoli-pizza/4c5ef8877735c9b6d6359372,4c5ef8877735c9b6d6359372,13,0,Napoli Pizza,1,7.8,21.0,5
+402,https://foursquare.com/v/lamici-pizza--pasta/4c62d9a658810f476130081e,4c62d9a658810f476130081e,3,0,L'amici Pizza & Pasta,1,0.0,0.0,1
+403,https://foursquare.com/v/marios-pizza/4c632f1cde1b2d7fed31e470,4c632f1cde1b2d7fed31e470,15,12,Mario's Pizza,1,8.0,24.0,10
+404,https://foursquare.com/v/landys-pizzeria/4c65a37d19f3c9b6bfae9dff,4c65a37d19f3c9b6bfae9dff,7,0,Landys Pizzeria,1,6.9,9.0,1
+405,https://foursquare.com/v/dominos-pizza/4c6888585fae20a120f449a6,4c6888585fae20a120f449a6,5,0,Domino's Pizza,1,6.4,8.0,2
+406,https://foursquare.com/v/salvatores-of-soho/4c6994e3c946e21eb28eea8e,4c6994e3c946e21eb28eea8e,76,11,Salvatore's of Soho,2,8.1,114.0,34
+407,https://foursquare.com/v/jerusalem-ii-pizza/4c6b6c0f2d9976b0e6870b3a,4c6b6c0f2d9976b0e6870b3a,8,1,Jerusalem II Pizza,1,6.7,16.0,2
+408,https://foursquare.com/v/grimaldis/4c6bf600d68a9c741978646b,4c6bf600d68a9c741978646b,264,493,Grimaldi's,2,7.8,409.0,111
+409,https://foursquare.com/v/artichoke-basilles-pizza--bar/4c6c3b1323c1a1cd5efc18cf,4c6c3b1323c1a1cd5efc18cf,930,736,Artichoke Basille's Pizza & Bar,2,8.2,1371.0,299
+410,https://foursquare.com/v/johns-restaurant--catering/4c6d59ab463537048eca08bc,4c6d59ab463537048eca08bc,1,0,John's Restaurant & Catering,1,0.0,0.0,0
+411,https://foursquare.com/v/mikes-pizza/4c7175d93bbbbfb73d551660,4c7175d93bbbbfb73d551660,11,2,Mike's Pizza,1,6.6,20.0,4
+412,https://foursquare.com/v/dairy-palace/4c718b4b13228cfa83d22865,4c718b4b13228cfa83d22865,3,1,Dairy Palace,1,0.0,0.0,0
+413,https://foursquare.com/v/bartow-pizza/4c72e57c8efc37046b30147d,4c72e57c8efc37046b30147d,5,1,Bartow Pizza,1,0.0,0.0,2
+414,https://foursquare.com/v/alessios-pizza/4c75c24466be6dcb8782c10f,4c75c24466be6dcb8782c10f,1,0,Alessio's Pizza,1,0.0,0.0,0
+415,https://foursquare.com/v/tommys-pizzeria/4c78a45597028cfa05b6d8fe,4c78a45597028cfa05b6d8fe,14,18,Tommy's Pizzeria,1,7.7,26.0,15
+416,https://foursquare.com/v/salerno-pizza/4c799b91bd346dcb0d21f6ef,4c799b91bd346dcb0d21f6ef,4,8,Salerno Pizza,1,6.5,8.0,2
+417,https://foursquare.com/v/vitos-pizza/4c7a8879278eb7135a2b5a80,4c7a8879278eb7135a2b5a80,8,2,Vito's Pizza,1,7.9,16.0,7
+418,https://foursquare.com/v/franks-original-pizza-italia/4c7af4b0a8683704ba64154d,4c7af4b0a8683704ba64154d,23,4,Franks Original Pizza Italia,2,8.2,31.0,7
+419,https://foursquare.com/v/dugout/4c7da955b33a224b0ee8d881,4c7da955b33a224b0ee8d881,1,0,Dugout,1,0.0,0.0,0
+420,https://foursquare.com/v/dominos-pizza/4c805b1fdc018cfa6b33bc6c,4c805b1fdc018cfa6b33bc6c,1,0,Domino's Pizza,1,6.2,3.0,1
+421,https://foursquare.com/v/mjs-pizza/4c8165a951ada1cd328a1210,4c8165a951ada1cd328a1210,2,0,MJ's Pizza,1,0.0,0.0,2
+422,https://foursquare.com/v/marcellas-pizza/4c82dc47d34ca143eca63080,4c82dc47d34ca143eca63080,0,2,Marcellas Pizza,1,0.0,0.0,3
+423,https://foursquare.com/v/bay-ridge-diner/4c87a5add92ea0931bc17772,4c87a5add92ea0931bc17772,14,9,Bay Ridge Diner,2,6.8,44.0,32
+424,https://foursquare.com/v/dominos-pizza/4c92b32e2bf7b60c9e02650a,4c92b32e2bf7b60c9e02650a,2,1,Domino's Pizza,1,5.4,11.0,4
+425,https://foursquare.com/v/bettolona/4c956003f7cfa1cd2e2ebd15,4c956003f7cfa1cd2e2ebd15,91,56,Bettolona,2,8.0,144.0,40
+426,https://foursquare.com/v/capizzi/4c9e590b542b224b4945f39f,4c9e590b542b224b4945f39f,195,292,Capizzi,2,8.9,293.0,101
+427,https://foursquare.com/v/jerrys-pizza/4c9eb295ca44236a2aac2d99,4c9eb295ca44236a2aac2d99,9,2,Jerry's Pizza,1,7.2,18.0,8
+428,https://foursquare.com/v/best-pizza/4ca36504d5a2a143def14890,4ca36504d5a2a143def14890,593,1125,Best Pizza,1,8.9,799.0,193
+429,https://foursquare.com/v/angies-cafe/4ca4a0c87f84224bcbe3ce58,4ca4a0c87f84224bcbe3ce58,7,0,Angie's Cafe,1,0.0,0.0,0
+430,https://foursquare.com/v/dominos-pizza/4ca4d829f832a1cd8d9aa9e5,4ca4d829f832a1cd8d9aa9e5,2,0,Domino's Pizza,1,6.6,3.0,0
+431,https://foursquare.com/v/san-matteo-pizza-espresso-bar/4ca76866a6e08cfa86508494,4ca76866a6e08cfa86508494,293,553,San Matteo Pizza Espresso Bar,2,8.9,419.0,112
+432,https://foursquare.com/luigispizzaon47,4ca7cf4414c337048999cd3b,13,4,Luigi's Pizza,1,7.6,18.0,3
+433,https://foursquare.com/v/taco-bell--pizza-hut/4ca7d5e68882199c6b2744d4,4ca7d5e68882199c6b2744d4,11,6,Taco Bell / Pizza Hut,1,6.2,20.0,4
+434,https://foursquare.com/v/centre-pizzeria/4ca8fca514c3370477c6d93b,4ca8fca514c3370477c6d93b,28,5,Centre Pizzeria,1,8.1,46.0,15
+435,https://foursquare.com/v/ambrosinos-pizza/4cab52292776b60c430c4b0d,4cab52292776b60c430c4b0d,3,1,Ambrosino's Pizza,1,5.6,11.0,5
+436,https://foursquare.com/v/giuseppinas/4cacf63f76d3a0932b3b366b,4cacf63f76d3a0932b3b366b,159,339,Giuseppina's,2,8.9,210.0,48
+437,https://foursquare.com/v/metro-deli--pizza/4caeff1275ebb60c475eb8ad,4caeff1275ebb60c475eb8ad,11,1,Metro Deli & Pizza,1,6.8,16.0,1
+438,https://foursquare.com/v/aldos-pizzeria--restaurant/4cb21cebdb32f04db2a7cd4d,4cb21cebdb32f04db2a7cd4d,21,5,Aldo's Pizzeria & Restaurant,3,7.2,33.0,12
+439,https://foursquare.com/v/knapp-pizza-ii/4cb355afb4b0a35dc52760ce,4cb355afb4b0a35dc52760ce,42,8,Knapp Pizza II,1,8.2,57.0,10
+440,https://foursquare.com/v/pizza--chicken/4cb777c390c9a14339a177d6,4cb777c390c9a14339a177d6,2,0,Pizza & Chicken,1,0.0,0.0,1
+441,https://foursquare.com/v/papa-johns-pizza/4cb8d8739552b60c90b3cf8b,4cb8d8739552b60c90b3cf8b,3,0,Papa John's Pizza,1,6.4,5.0,2
+442,https://foursquare.com/v/benvenuti-pizzeria-e-trattoria/4cb8efaa90c9a143a5e183d6,4cb8efaa90c9a143a5e183d6,3,0,Benvenuti Pizzeria e Trattoria,2,5.7,10.0,9
+443,https://foursquare.com/v/rubirosa-ristorante/4cc6222106c25481d7a4a047,4cc6222106c25481d7a4a047,2467,6256,Rubirosa Ristorante,2,9.3,3246.0,813
+444,https://foursquare.com/v/vesuvius-pizza/4ccdcfb232e776b00fcddb27,4ccdcfb232e776b00fcddb27,4,0,Vesuvius Pizza,1,6.5,8.0,3
+445,https://foursquare.com/v/slice-of-brooklyn/4ccef19d7c2ff04d10a5a77e,4ccef19d7c2ff04d10a5a77e,5,2,Slice Of Brooklyn,1,6.6,14.0,6
+446,https://foursquare.com/v/papa-johns-pizza/4cd06ffe7b685481f981c1f8,4cd06ffe7b685481f981c1f8,2,1,Papa John's Pizza,1,7.0,4.0,1
+447,https://foursquare.com/v/dominos-pizza/4cd1dfbc6200b1f7465bdc28,4cd1dfbc6200b1f7465bdc28,3,2,Domino's Pizza,1,6.8,5.0,1
+448,https://foursquare.com/v/original-sicilian-pizza/4cd9e2553ac03704a0f3f827,4cd9e2553ac03704a0f3f827,0,0,Original Sicilian Pizza,1,0.0,0.0,0
+449,https://foursquare.com/v/2-bros-pizza/4cdac2d7a1bba35d21a090e5,4cdac2d7a1bba35d21a090e5,112,78,2 Bros. Pizza,1,6.0,256.0,102
+450,https://foursquare.com/v/99-fresh-pizza/4cddadce7e2e236ab85d7a1b,4cddadce7e2e236ab85d7a1b,78,26,99¢ Fresh Pizza,1,6.4,149.0,57
+451,https://foursquare.com/v/dominos-pizza/4cdf2eee94c3b60c9b4a6aea,4cdf2eee94c3b60c9b4a6aea,2,1,Domino's Pizza,1,6.4,5.0,2
+452,https://foursquare.com/v/due-fratelli/4ce41ca3ef2db60c9951c45b,4ce41ca3ef2db60c9951c45b,8,2,Due Fratelli,1,6.5,19.0,7
+453,https://foursquare.com/v/nonas-pizza/4ce56d672b4e721e46b8342b,4ce56d672b4e721e46b8342b,19,3,Nona's Pizza,2,8.6,25.0,7
+454,https://foursquare.com/v/little-caesars-pizza/4ce5cd52678aa093c5aad8ea,4ce5cd52678aa093c5aad8ea,3,0,Little Caesars Pizza,1,6.6,4.0,1
+455,https://foursquare.com/v/pizza-vesuvio/4ce96a4f678aa093a122eeea,4ce96a4f678aa093a122eeea,10,0,Pizza Vesuvio,1,7.6,18.0,7
+456,https://foursquare.com/v/johns-pizza/4cec402e7db3224b1f2f1b2e,4cec402e7db3224b1f2f1b2e,0,0,John's Pizza,1,0.0,0.0,0
+457,https://foursquare.com/v/kosher-pizza/4cf684d3d3a8a1cd8cc1d143,4cf684d3d3a8a1cd8cc1d143,0,1,Kosher Pizza,1,0.0,0.0,0
+458,https://foursquare.com/v/torinos-pizza--pasta/4cf6cd9d1cfea093608be139,4cf6cd9d1cfea093608be139,2,1,Torino's Pizza & Pasta,1,0.0,0.0,4
+459,https://foursquare.com/v/slice--co/4cf6db7866585481afafcb98,4cf6db7866585481afafcb98,38,8,Slice & Co,2,5.8,92.0,20
+460,https://foursquare.com/v/casa-nonna/4d0122e21ebe6dcb3d918b91,4d0122e21ebe6dcb3d918b91,201,158,Casa Nonna,3,8.3,301.0,79
+461,https://foursquare.com/v/ski-lodge/4d04ded0a26854811c22babd,4d04ded0a26854811c22babd,0,0,Ski lodge,1,0.0,0.0,0
+462,https://foursquare.com/v/pizza/4d10c103d21db60c57022c18,4d10c103d21db60c57022c18,0,0,pizza,1,0.0,0.0,0
+463,https://foursquare.com/v/bona-pizza/4d13d65d6d1037042bcb1bbd,4d13d65d6d1037042bcb1bbd,1,0,Bona Pizza,1,0.0,0.0,1
+464,https://foursquare.com/v/vaccaros-pizza/4d1faf7ed7b0b1f708a20e9f,4d1faf7ed7b0b1f708a20e9f,18,11,Vaccaros Pizza,1,8.2,33.0,12
+465,https://foursquare.com/v/pizzarte/4d2cc29fb47d2c0fbd618594,4d2cc29fb47d2c0fbd618594,111,127,Pizzarte,3,7.7,182.0,52
+466,https://foursquare.com/v/da-nonna-rosa-cucina-italiana/4d2ce735762fa143f40b7464,4d2ce735762fa143f40b7464,65,32,Da Nonna Rosa Cucina Italiana,2,7.5,115.0,34
+467,https://foursquare.com/v/capri-ii-pizza/4d2cfa5cad25224bbbc5fb8f,4d2cfa5cad25224bbbc5fb8f,5,0,Capri II Pizza,1,6.3,10.0,4
+468,https://foursquare.com/v/pick-and-eat/4d2d39b469f42d439d16ad8a,4d2d39b469f42d439d16ad8a,59,26,Pick and Eat,2,7.2,109.0,37
+469,https://foursquare.com/v/educole-karaoke-bar/4d2d4175679e6dcb8bc1ad95,4d2d4175679e6dcb8bc1ad95,1,0,Educole karaoke bar,1,0.0,0.0,0
+470,https://foursquare.com/v/educoles-pizza/4d2df0d494013704423be1da,4d2df0d494013704423be1da,0,0,Educoles pizza,1,0.0,0.0,0
+471,https://foursquare.com/v/my-pie/4d3772ec9516236a6a058d51,4d3772ec9516236a6a058d51,150,122,My Pie,2,8.2,222.0,59
+472,https://foursquare.com/v/venezia-pizzeria--restaurant/4d3875c7803ba35d67339cfc,4d3875c7803ba35d67339cfc,2,0,Venezia Pizzeria & Restaurant,1,0.0,0.0,6
+473,https://foursquare.com/v/delmar-pizzeria/4d3c5e8f457cb60c57f9eea4,4d3c5e8f457cb60c57f9eea4,23,27,Delmar Pizzeria,1,8.0,35.0,12
+474,https://foursquare.com/v/armandos-pizzaria/4d3e793dfb4c5481023de614,4d3e793dfb4c5481023de614,8,1,Armandos Pizzaria,1,7.1,13.0,4
+475,https://foursquare.com/v/jojos-pizza/4d4112cbcb84b60c33fd8bab,4d4112cbcb84b60c33fd8bab,0,0,JoJo's Pizza,1,0.0,0.0,0
+476,https://foursquare.com/v/joe-bella-pizza/4d41cbea915a3704279e237f,4d41cbea915a3704279e237f,0,0,Joe Bella Pizza,1,0.0,0.0,0
+477,https://foursquare.com/v/dominos-pizza/4d41f059aed776eb845e6997,4d41f059aed776eb845e6997,1,0,Domino's Pizza,1,6.5,1.0,0
+478,https://foursquare.com/v/dominos-pizza/4d41f0bdaed776eb58a56997,4d41f0bdaed776eb58a56997,0,0,Domino's Pizza,1,6.3,2.0,1
+479,https://foursquare.com/v/dominos-pizza/4d41f0bfaed776ebb2a56997,4d41f0bfaed776ebb2a56997,4,3,Domino's Pizza,1,6.8,5.0,1
+480,https://foursquare.com/v/dominos-pizza/4d41f0bfaed776ebeaa56997,4d41f0bfaed776ebeaa56997,2,0,Domino's Pizza,1,6.6,3.0,1
+481,https://foursquare.com/v/dominos-pizza/4d41f0c9aed776eb37a86997,4d41f0c9aed776eb37a86997,1,0,Domino's Pizza,1,6.6,4.0,2
+482,https://foursquare.com/v/oasis-pizza--gyro/4d48a3ef5241236aef1d6d04,4d48a3ef5241236aef1d6d04,8,4,Oasis Pizza & Gyro,1,7.0,22.0,11
+483,https://foursquare.com/v/trattoria-thirty-five/4d4e0113869cf04dd10ce4ae,4d4e0113869cf04dd10ce4ae,33,6,Trattoria Thirty Five,2,7.3,56.0,29
+484,https://foursquare.com/v/olgas-pizza/4d5028cedcce224bb140d51b,4d5028cedcce224bb140d51b,21,7,Olga's Pizza,1,7.6,32.0,12
+485,https://foursquare.com/v/mj-pizzeria/4d56d520fb65236a1bbd0ab4,4d56d520fb65236a1bbd0ab4,0,0,M&J Pizzeria,1,0.0,0.0,1
+486,https://foursquare.com/v/ginos-pizza/4d59be7de092a35d1061030c,4d59be7de092a35d1061030c,13,2,Ginos Pizza,1,7.5,17.0,2
+487,https://foursquare.com/lucafamilypizza,4d618604618aa09055380be2,0,0,Luca's Family Pizza,1,0.0,0.0,0
+488,https://foursquare.com/v/bella-pizza/4d64056f69d859410fdc33ca,4d64056f69d859410fdc33ca,1,1,Bella Pizza,1,5.4,8.0,5
+489,https://foursquare.com/osteriacotta,4d68839467a8f04df7ee01be,433,546,Osteria Cotta,2,8.4,657.0,170
+490,https://foursquare.com/v/tappo/4d7fb327b25d6dcb33d5d242,4d7fb327b25d6dcb33d5d242,244,159,Tappo,3,8.3,354.0,72
+491,https://foursquare.com/v/crust/4d85250999b78cfad771c81f,4d85250999b78cfad771c81f,69,13,CRUST,3,5.7,179.0,72
+492,https://foursquare.com/v/margherita-pizza--mexican-cuisine/4d893cf17139b1f73ed0b1d4,4d893cf17139b1f73ed0b1d4,6,2,Margherita Pizza & Mexican Cuisine,1,8.1,8.0,6
+493,https://foursquare.com/v/papa-johns-pizza/4d8cab34fe8d41bd573bd705,4d8cab34fe8d41bd573bd705,4,0,Papa John's Pizza,1,7.0,4.0,0
+494,https://foursquare.com/v/brooklyn-pizza-ii/4d9f86448e8f224b2f47a656,4d9f86448e8f224b2f47a656,6,2,Brooklyn Pizza II,1,7.3,9.0,3
+495,https://foursquare.com/v/little-italy-pizza/4da22887d686b60cb31db428,4da22887d686b60cb31db428,62,10,Little Italy Pizza,1,6.8,108.0,30
+496,https://foursquare.com/v/big-bob-pizza/4da46817b521224b129331ee,4da46817b521224b129331ee,0,0,Big Bob Pizza,1,0.0,0.0,0
+497,https://foursquare.com/v/kosher-pizza-world/4da4b0f2c6e96ea8068a025e,4da4b0f2c6e96ea8068a025e,1,3,Kosher Pizza World,1,0.0,0.0,1
+498,https://foursquare.com/v/599xl-pizza/4dab37f393a04642f090ebf6,4dab37f393a04642f090ebf6,0,0,599XL Pizza,1,0.0,0.0,0
+499,https://foursquare.com/v/pizzeria-giove/4db59a820437fa536a4429b1,4db59a820437fa536a4429b1,52,39,Pizzeria Giove,1,8.7,79.0,26
+500,https://foursquare.com/v/omg-pizza/4db9e32e0cb65435c5202dd4,4db9e32e0cb65435c5202dd4,36,6,OMG Pizza,1,6.3,74.0,18
+501,https://foursquare.com/v/sals-and-lloyds-pizza/4dbed2500437955ec06e40a0,4dbed2500437955ec06e40a0,2,0,Sal's And Lloyd's Pizza,1,0.0,0.0,2
+502,https://foursquare.com/v/brooklyns-finest-pizza/4dbf1a6c6e810768bf9cc1c4,4dbf1a6c6e810768bf9cc1c4,2,0,Brooklyn's Finest Pizza,1,5.4,14.0,7
+503,https://foursquare.com/v/original-tonys-pizza/4dc17e97e4cda3b87f230bd1,4dc17e97e4cda3b87f230bd1,1,1,Original Tonys Pizza,1,0.0,0.0,1
+504,https://foursquare.com/v/kennedy-fried-chicken--pizza/4dc1e1c6e4cda235454819db,4dc1e1c6e4cda235454819db,3,0,Kennedy Fried Chicken & Pizza,1,0.0,0.0,1
+505,https://foursquare.com/v/angelo--als-pizzeria/4dc88478d4c0bf68419355ea,4dc88478d4c0bf68419355ea,1,1,Angelo & Al’s Pizzeria,1,0.0,0.0,0
+506,https://foursquare.com/v/beach-20-pizza/4dc8cb1345dd9aa940b02756,4dc8cb1345dd9aa940b02756,0,0,Beach 20 Pizza,1,0.0,0.0,0
+507,https://foursquare.com/v/my-family-pizza/4dcdbab1ae603b786d1df416,4dcdbab1ae603b786d1df416,3,0,My Family Pizza,1,0.0,0.0,2
+508,https://foursquare.com/v/piccolo-pinos-pizzeria/4dd2cb2252b1f20e6801541b,4dd2cb2252b1f20e6801541b,1,0,Piccolo Pino's Pizzeria,1,0.0,0.0,0
+509,https://foursquare.com/v/patzeria-family-and-friends/4dd98ad8b0fb8af380ba4123,4dd98ad8b0fb8af380ba4123,190,129,Patzeria Family and Friends,2,8.6,277.0,80
+510,https://foursquare.com/v/ciros-pizza/4de55694c65b98fadae251ab,4de55694c65b98fadae251ab,7,0,Ciros Pizza,1,6.7,14.0,9
+511,https://foursquare.com/v/dominos-pizza/4de6e6db52b1886171c27e7f,4de6e6db52b1886171c27e7f,1,1,Domino's Pizza,1,6.5,4.0,2
+512,https://foursquare.com/v/2-bros-pizza/4df6088da809141629aabfd2,4df6088da809141629aabfd2,36,25,2 Bros. Pizza,1,7.1,61.0,12
+513,https://foursquare.com/v/valduccis-pizza-and-catering/4df7e1aad4c02ad734170b21,4df7e1aad4c02ad734170b21,5,13,Valducci's Pizza and Catering,1,6.1,15.0,7
+514,https://foursquare.com/v/dominos-pizza/4df92d471f6e2728c9eed7a5,4df92d471f6e2728c9eed7a5,0,0,Domino's Pizza,1,6.5,1.0,0
+515,https://foursquare.com/v/basil-brick-oven-pizza/4df92f12e4cd56a64982415f,4df92f12e4cd56a64982415f,94,185,Basil Brick Oven Pizza,2,8.9,149.0,52
+516,https://foursquare.com/v/jimmy-max-pizza/4dfc02d4d164848a03f45b8e,4dfc02d4d164848a03f45b8e,0,0,Jimmy Max Pizza,1,0.0,0.0,0
+517,https://foursquare.com/v/tatos-famous-pizza/4e0a1edbd22d658532b8412c,4e0a1edbd22d658532b8412c,1,0,Tato's Famous Pizza,1,0.0,0.0,0
+518,https://foursquare.com/v/mamma-mia-pizzeria/4e0e3f3c62e1d5a30cff7dd3,4e0e3f3c62e1d5a30cff7dd3,2,0,Mamma Mia Pizzeria,1,0.0,0.0,0
+519,https://foursquare.com/v/barboncino/4e14d383d4c0e3d78b279017,4e14d383d4c0e3d78b279017,823,1096,Barboncino,2,9.2,1063.0,219
+520,https://foursquare.com/v/stevelo-pizza-shop/4e165ae3b61c2903bf00fd07,4e165ae3b61c2903bf00fd07,9,0,Stevelo Pizza Shop,1,7.8,11.0,0
+521,https://foursquare.com/v/euro-pizza/4e1e42642271ad66e49e6e17,4e1e42642271ad66e49e6e17,2,1,Euro Pizza,1,6.3,9.0,6
+522,https://foursquare.com/v/taste-of-dollys-pizza--pasta-restaurant/4e24b65988776c2682f5d66d,4e24b65988776c2682f5d66d,7,1,Taste of Dolly's Pizza & Pasta Restaurant,1,7.3,9.0,2
+523,https://foursquare.com/v/famous-3-brothers-pizza/4e28cdc8e4cd6c6cb34b2322,4e28cdc8e4cd6c6cb34b2322,0,0,Famous 3 Brothers Pizza,1,0.0,0.0,0
+524,https://foursquare.com/v/sbarro/4e3056e01f6ed9df90292f2f,4e3056e01f6ed9df90292f2f,2,0,Sbarro,1,6.3,3.0,1
+525,https://foursquare.com/v/harrys-italian-pizza-bar/4e3736cab61c5cb3c37e529e,4e3736cab61c5cb3c37e529e,46,20,Harry's Italian Pizza Bar,1,6.5,79.0,21
+526,https://foursquare.com/v/pizza-e-fichi/4e4050c4d4c058f9dc29dc0c,4e4050c4d4c058f9dc29dc0c,0,0,Pizza E Fichi,1,0.0,0.0,0
+527,https://foursquare.com/v/big-als-pizzeria/4e4cc214bd413c4cc66bedef,4e4cc214bd413c4cc66bedef,2,0,Big Als Pizzeria,1,0.0,0.0,2
+528,https://foursquare.com/v/brothers-pizza-ii/4e4cc3a2bd413c4cc66bfae4,4e4cc3a2bd413c4cc66bfae4,0,0,Brother's Pizza II,1,0.0,0.0,0
+529,https://foursquare.com/v/larosas-pizzeria/4e4cc3a9bd413c4cc66bfb12,4e4cc3a9bd413c4cc66bfb12,0,0,LaRosa's Pizzeria,1,0.0,0.0,0
+530,https://foursquare.com/v/mamma-mia-pizzeria--italian-restaurant/4e4cd7cfbd413c4cc66c9b65,4e4cd7cfbd413c4cc66c9b65,0,0,Mamma Mia Pizzeria & Italian Restaurant,1,0.0,0.0,0
+531,https://foursquare.com/v/villaggio/4e4ce94fbd413c4cc66d2a1f,4e4ce94fbd413c4cc66d2a1f,0,0,Villaggio,3,0.0,0.0,1
+532,https://foursquare.com/v/patricias-i-brick-oven-pizza--pasta/4e4cf8c4bd413c4cc66da68e,4e4cf8c4bd413c4cc66da68e,3,1,Patricia's I Brick Oven Pizza & Pasta,1,0.0,0.0,0
+533,https://foursquare.com/v/primavera-pizzeria--restaurant/4e4cf8eebd413c4cc66da7f7,4e4cf8eebd413c4cc66da7f7,8,0,Primavera Pizzeria & Restaurant,1,7.9,9.0,2
+534,https://foursquare.com/v/roccos-pizzeria/4e4cff73bd413c4cc66dddcc,4e4cff73bd413c4cc66dddcc,3,0,Rocco's Pizzeria,1,0.0,0.0,3
+535,https://foursquare.com/v/cascarinos/4e4dbf19bd41b76bef927754,4e4dbf19bd41b76bef927754,1,0,Cascarino's,1,0.0,0.0,0
+536,https://foursquare.com/v/cestras-pizza/4e4dd9afbd4101d0d79cbd5c,4e4dd9afbd4101d0d79cbd5c,5,2,Cestra's Pizza,1,7.8,10.0,6
+537,https://foursquare.com/v/bennys-famous-pizzeria/4e4de612bd4101d0d79dac2b,4e4de612bd4101d0d79dac2b,1,1,Benny's Famous Pizzeria,1,0.0,0.0,1
+538,https://foursquare.com/v/toskana-pizzeria-restaurant/4e4deb13bd41b76bef9552f1,4e4deb13bd41b76bef9552f1,4,0,Toskana Pizzeria Restaurant,1,0.0,0.0,2
+539,https://foursquare.com/v/alitalia-pizzeria-restaurant/4e4e3e6cbd4101d0d7a5ca87,4e4e3e6cbd4101d0d7a5ca87,6,0,Alitalia Pizzeria Restaurant,1,0.0,0.0,2
+540,https://foursquare.com/v/danas-pizzeria--restaurant/4e4e41cebd4101d0d7a61df5,4e4e41cebd4101d0d7a61df5,1,0,Dana's Pizzeria & Restaurant,1,0.0,0.0,0
+541,https://foursquare.com/v/ciros-pizza-incorporated/4e4e41dbbd4101d0d7a61f5f,4e4e41dbbd4101d0d7a61f5f,0,0,Ciro's Pizza Incorporated,1,0.0,0.0,0
+542,https://foursquare.com/v/rockaway-pizza--restaurant/4e4e41dcbd4101d0d7a61f73,4e4e41dcbd4101d0d7a61f73,1,1,Rockaway Pizza & Restaurant,1,0.0,0.0,0
+543,https://foursquare.com/v/bagels-on-3rd/4e4e4cd0bd4101d0d7a72c01,4e4e4cd0bd4101d0d7a72c01,3,0,Bagels On 3rd,1,0.0,0.0,1
+544,https://foursquare.com/v/baby-luna-ristorante--pizzeria/4e4e4f2abd4101d0d7a760c2,4e4e4f2abd4101d0d7a760c2,0,0,Baby Luna Ristorante & Pizzeria,1,0.0,0.0,0
+545,https://foursquare.com/v/famous-mj/4e4e63e8bd4101d0d7a915e2,4e4e63e8bd4101d0d7a915e2,1,0,Famous M&J,1,0.0,0.0,2
+546,https://foursquare.com/v/pizza-stop/4e52a4b988775123c0ebc126,4e52a4b988775123c0ebc126,16,7,Pizza Stop,1,7.7,27.0,9
+547,https://foursquare.com/v/sals-of-soho/4e5d5eb2a8092f639683dee0,4e5d5eb2a8092f639683dee0,0,0,Sals Of Soho,1,0.0,0.0,0
+548,https://foursquare.com/v/slices-brooklyn/4e692e551838f93d2c8da58c,4e692e551838f93d2c8da58c,2,0,Slices Brooklyn,1,0.0,0.0,0
+549,https://foursquare.com/v/house-pizza/4e7510abae60c32850f78bce,4e7510abae60c32850f78bce,3,0,House pizza,1,0.0,0.0,4
+550,https://foursquare.com/sottocasanyc,4e793558aeb79f7dab5c7f6f,426,683,Sottocasa Pizzeria,2,8.9,568.0,115
+551,https://foursquare.com/v/le-paddock/4e7d174cb6340a4da75a2cca,4e7d174cb6340a4da75a2cca,134,109,Le Paddock,2,8.7,181.0,56
+552,https://foursquare.com/v/kellys-coffee-shop/4e7f2c3bd22dc3a88dea85c4,4e7f2c3bd22dc3a88dea85c4,4,0,Kelly's Coffee Shop,1,0.0,0.0,2
+553,https://foursquare.com/v/little-caesars-pizza/4e84b06f6da10afb2ae38ba5,4e84b06f6da10afb2ae38ba5,5,0,Little Caesars Pizza,1,6.6,7.0,2
+554,https://foursquare.com/v/jimmys-pizza-n-grill/4e9b41e26c2592b36cffc234,4e9b41e26c2592b36cffc234,1,1,Jimmy's Pizza n Grill,1,0.0,0.0,0
+555,https://foursquare.com/v/pizza-pronto/4e9f16df93ad5d11f3d6c67f,4e9f16df93ad5d11f3d6c67f,10,1,Pizza Pronto,1,7.7,16.0,7
+556,https://foursquare.com/v/minas-pizza/4ebb2b600aafea64824ab167,4ebb2b600aafea64824ab167,0,0,Mina's Pizza,1,0.0,0.0,0
+557,https://foursquare.com/v/famiglia-pizzeria/4ebc5f79d3e38e6b0bad8206,4ebc5f79d3e38e6b0bad8206,10,1,Famiglia Pizzeria,1,5.8,41.0,19
+558,https://foursquare.com/v/aoa-bar--grill/4ec4407382313b672fccf581,4ec4407382313b672fccf581,125,52,AOA Bar & Grill,2,5.9,298.0,80
+559,https://foursquare.com/v/speedy-romeo/4ed14ab093ad987b4e200de1,4ed14ab093ad987b4e200de1,827,1375,Speedy Romeo,2,9.2,1058.0,228
+560,https://foursquare.com/v/papa-johns-pizza/4ee10ebbe5fa0be346f66e6f,4ee10ebbe5fa0be346f66e6f,0,1,Papa John's Pizza,1,6.5,1.0,0
+561,https://foursquare.com/v/dollar-pizza/4ee3c62a99119449006e6b2d,4ee3c62a99119449006e6b2d,45,13,Dollar Pizza,1,7.9,65.0,15
+562,https://foursquare.com/v/johns-pizza--heros/4eeb89de490111d46a97b0d8,4eeb89de490111d46a97b0d8,2,0,John's Pizza & heros,1,0.0,0.0,1
+563,https://foursquare.com/v/pizza-daddy/4ef38f529a528bc5d78ea011,4ef38f529a528bc5d78ea011,21,1,Pizza Daddy,1,8.0,33.0,12
+564,https://foursquare.com/v/prince-street-pizza/4f045eeb00399761c77301e3,4f045eeb00399761c77301e3,1412,2434,Prince Street Pizza,1,9.1,1819.0,363
+565,https://foursquare.com/v/a--c-coffee-shop/4f10a790e4b03856ef7f708a,4f10a790e4b03856ef7f708a,8,0,A & C Coffee Shop,1,7.8,11.0,3
+566,https://foursquare.com/v/mona-mias-pizzeria/4f15fb9ee4b01eeff2b87c99,4f15fb9ee4b01eeff2b87c99,0,0,Mona Mias Pizzeria,1,0.0,0.0,2
+567,https://foursquare.com/v/don-antonio-by-starita/4f16b98fe4b0f2c21698586c,4f16b98fe4b0f2c21698586c,871,1646,Don Antonio by Starita,2,8.8,1270.0,368
+568,https://foursquare.com/v/three-brothers/4f1cc73be4b0b4fdeab34739,4f1cc73be4b0b4fdeab34739,0,0,Three Brothers,1,0.0,0.0,1
+569,https://foursquare.com/v/two-grandpas-pizza/4f2c8826e4b056f83a418b53,4f2c8826e4b056f83a418b53,4,0,Two Grandpas pizza,1,0.0,0.0,1
+570,https://foursquare.com/v/godfathers-pizza/4f32118419833175d60d6089,4f32118419833175d60d6089,0,0,Godfathers Pizza,1,0.0,0.0,0
+571,https://foursquare.com/v/volare-pizzeria/4f3212d719833175d60de4ba,4f3212d719833175d60de4ba,0,0,Volare Pizzeria,1,0.0,0.0,0
+572,https://foursquare.com/v/via-serra-pizza-restaurant/4f32246419836c91c7ba496c,4f32246419836c91c7ba496c,0,0,Via Serra Pizza Restaurant,1,0.0,0.0,0
+573,https://foursquare.com/v/giovanni-restaurant-and-great-pizza/4f3228b519836c91c7bbfa2a,4f3228b519836c91c7bbfa2a,3,0,Giovanni Restaurant and Great Pizza,1,0.0,0.0,0
+574,https://foursquare.com/v/three-brothers-pizzeria/4f32290d19836c91c7bc1c37,4f32290d19836c91c7bc1c37,1,0,Three Brothers Pizzeria,1,0.0,0.0,1
+575,https://foursquare.com/v/the-original-master-pizza/4f322feb19836c91c7beb6fe,4f322feb19836c91c7beb6fe,0,0,The Original Master Pizza,1,0.0,0.0,0
+576,https://foursquare.com/v/the-pta/4f3235d519836c91c7c105ef,4f3235d519836c91c7c105ef,0,0,The PTA,1,0.0,0.0,0
+577,https://foursquare.com/v/b-and-s-pizza/4f323a0f19836c91c7c2aa7f,4f323a0f19836c91c7c2aa7f,0,0,B and S Pizza,1,0.0,0.0,0
+578,https://foursquare.com/v/planetary-concepts/4f323b7819836c91c7c335ea,4f323b7819836c91c7c335ea,0,0,Planetary Concepts,1,0.0,0.0,0
+579,https://foursquare.com/v/big-johns-pizza-brew/4f323fb619836c91c7c4e49a,4f323fb619836c91c7c4e49a,0,0,Big John's Pizza Brew,1,0.0,0.0,0
+580,https://foursquare.com/v/torino-cafe/4f324c0f19836c91c7c9d05d,4f324c0f19836c91c7c9d05d,0,0,Torino Cafe,1,0.0,0.0,1
+581,https://foursquare.com/v/jerusalem-pizza-international/4f324fad19836c91c7cb3a9b,4f324fad19836c91c7cb3a9b,0,0,Jerusalem Pizza International,1,0.0,0.0,0
+582,https://foursquare.com/v/johns-pizzeria/4f325ec419836c91c7d11d43,4f325ec419836c91c7d11d43,0,0,John's Pizzeria,1,0.0,0.0,0
+583,https://foursquare.com/v/classic-by-the-lake-pizzeria/4f32687319836c91c7d4df8c,4f32687319836c91c7d4df8c,0,0,Classic by The Lake Pizzeria,1,0.0,0.0,0
+584,https://foursquare.com/v/valduccis-pizza-cafe/4f32690e19836c91c7d519f3,4f32690e19836c91c7d519f3,0,1,Valduccis Pizza Cafe,1,0.0,0.0,0
+585,https://foursquare.com/v/showtime-pizza/4f32722919836c91c7d896a9,4f32722919836c91c7d896a9,0,0,Showtime Pizza,1,0.0,0.0,0
+586,https://foursquare.com/v/fresh-meadows-pizzeria-and-restaurant/4f327ad019836c91c7dbdda9,4f327ad019836c91c7dbdda9,12,3,Fresh Meadows Pizzeria and Restaurant,1,8.9,17.0,9
+587,https://foursquare.com/v/kiryas-4-pizza/4f327f3119836c91c7dd8ade,4f327f3119836c91c7dd8ade,0,0,Kiryas 4 Pizza,1,0.0,0.0,0
+588,https://foursquare.com/v/joes-pizzeria/4f32854319836c91c7dfda5a,4f32854319836c91c7dfda5a,0,0,Joe's Pizzeria,1,0.0,0.0,0
+589,https://foursquare.com/v/gentiles-restaurant-and-pizza/4f32855319836c91c7dfe05d,4f32855319836c91c7dfe05d,0,0,Gentile's Restaurant and Pizza,1,0.0,0.0,0
+590,https://foursquare.com/v/john-s-pizza-factory/4f3289c919836c91c7e195dd,4f3289c919836c91c7e195dd,0,0,John S Pizza Factory,1,0.0,0.0,0
+591,https://foursquare.com/v/petes-pizzeria/4f32933c19836c91c7e52a56,4f32933c19836c91c7e52a56,0,0,Petes Pizzeria,1,0.0,0.0,0
+592,https://foursquare.com/v/amboys-pizza-and-restaurant/4f329d1119836c91c7e8df27,4f329d1119836c91c7e8df27,1,0,Amboys Pizza and Restaurant,1,0.0,0.0,0
+593,https://foursquare.com/v/capones-pizzeria/4f32b3d419836c91c7f15d94,4f32b3d419836c91c7f15d94,0,0,Capone's Pizzeria,1,0.0,0.0,0
+594,https://foursquare.com/v/papa-johns-pizza/4f32b47619836c91c7f19b54,4f32b47619836c91c7f19b54,0,0,Papa Johns Pizza,1,0.0,0.0,0
+595,https://foursquare.com/v/numero-28-pizza/4f3daa90e4b0fbbbd6cc20d8,4f3daa90e4b0fbbbd6cc20d8,70,68,Numero 28 Pizza,2,7.8,112.0,30
+596,https://foursquare.com/v/for-brothers/4f434b0519834bc91f55c010,4f434b0519834bc91f55c010,0,0,For Brothers,1,0.0,0.0,0
+597,https://foursquare.com/v/a-pizza-alternative/4f44ed1319836ed0019783e9,4f44ed1319836ed0019783e9,0,0,A Pizza Alternative,1,0.0,0.0,0
+598,https://foursquare.com/v/crispy-pizza/4f5584abe4b01eb4127bb921,4f5584abe4b01eb4127bb921,10,1,Crispy Pizza,1,7.6,19.0,10
+599,https://foursquare.com/v/gloria-pizza/4f6cb7a0e4b0a6b770c9b395,4f6cb7a0e4b0a6b770c9b395,37,14,Gloria Pizza,1,7.7,62.0,20
+600,https://foursquare.com/v/taste-of-artichoke/4f6f60d6e4b0ac4cdc0f28bd,4f6f60d6e4b0ac4cdc0f28bd,18,9,Taste of Artichoke,1,6.1,42.0,18
+601,https://foursquare.com/v/little-caesars-pizza/4f75f6c6e4b0613b068eb235,4f75f6c6e4b0613b068eb235,1,0,Little Caesars Pizza,1,6.4,5.0,3
+602,https://foursquare.com/v/tees-pizza-place/4f765b9ce4b0633646924639,4f765b9ce4b0633646924639,0,0,Tee's Pizza Place,1,0.0,0.0,1
+603,https://foursquare.com/v/ribalta/4f77a50fe4b05cde611bd97c,4f77a50fe4b05cde611bd97c,281,574,Ribalta,2,8.4,429.0,105
+604,https://foursquare.com/v/pizza-prince/4f77e3d9e4b06ff836a5b1d9,4f77e3d9e4b06ff836a5b1d9,35,5,Pizza Prince,1,6.2,66.0,16
+605,https://foursquare.com/v/2-bros-pizza/4f7b741ce4b086fa1e6451de,4f7b741ce4b086fa1e6451de,13,12,2 Bros. Pizza,1,6.1,23.0,7
+606,https://foursquare.com/v/frank-and-dannys/4f7b885ce4b09b8aea7333a0,4f7b885ce4b09b8aea7333a0,3,0,Frank And Danny's,1,0.0,0.0,1
+607,https://foursquare.com/v/reggianos-brick-oven-pizza--cafe/4f9c3e68e4b0d8e6229f884f,4f9c3e68e4b0d8e6229f884f,24,9,Reggiano's Brick Oven Pizza & Cafe,1,7.8,33.0,9
+608,https://foursquare.com/v/uncle-pauls-pizza/4fb14f77e4b0df0ef856f9d1,4fb14f77e4b0df0ef856f9d1,63,34,Uncle Paul's Pizza,2,6.7,117.0,34
+609,https://foursquare.com/v/serafina-fabulous-pizza/4fc6b972e4b0824ae3757353,4fc6b972e4b0824ae3757353,152,104,Serafina Fabulous Pizza,2,7.0,255.0,56
+610,https://foursquare.com/v/little-caesars-pizza/4fc921c6e4b0aadca0a995a8,4fc921c6e4b0aadca0a995a8,4,3,Little Caesars Pizza,1,6.7,8.0,2
+611,https://foursquare.com/v/pronto-pizza/4fce8904e4b0e51e2fbd6236,4fce8904e4b0e51e2fbd6236,0,0,Pronto pizza,1,0.0,0.0,0
+612,https://foursquare.com/v/dp-pizza/4fdcadf6e4b0ede3820711f7,4fdcadf6e4b0ede3820711f7,0,0,DP Pizza,1,0.0,0.0,1
+613,https://foursquare.com/v/antika-restaurant--pizzeria/5010b169e4b05edd9983ec7d,5010b169e4b05edd9983ec7d,72,48,Antika Restaurant & Pizzeria,2,8.1,109.0,31
+614,https://foursquare.com/v/dellaroccos/5012043564a4944f5c47738a,5012043564a4944f5c47738a,178,210,Dellarocco's,2,8.9,239.0,57
+615,https://foursquare.com/v/motis/5020802b067d4582ed91a908,5020802b067d4582ed91a908,2,3,Moti's,1,0.0,0.0,0
+616,https://foursquare.com/v/williamsburg-pizza/504d1468e4b086a8fac58d07,504d1468e4b086a8fac58d07,295,461,Williamsburg Pizza,1,9.0,385.0,74
+617,https://foursquare.com/v/vittorios-pizza-plus/505380aee4b07ab78c6545fe,505380aee4b07ab78c6545fe,15,9,Vittorio's Pizza Plus,1,6.5,24.0,5
+618,https://foursquare.com/tavolanyc,505b7061e4b0571999fb3da8,257,229,Tavola,2,8.3,363.0,70
+619,https://foursquare.com/v/trapizzino/5070d27ae4b0513ffd4ddfe7,5070d27ae4b0513ffd4ddfe7,81,188,Trapizzino,2,8.6,101.0,16
+620,https://foursquare.com/v/wheated/5074523d45b0e4539638b474,5074523d45b0e4539638b474,166,237,Wheated,2,8.7,231.0,60
+621,https://foursquare.com/v/little-caesars-pizza/507b410ae4b03d49e5a4761b,507b410ae4b03d49e5a4761b,3,0,Little Caesars Pizza,1,6.6,4.0,0
+622,https://foursquare.com/v/koronet-pizza/5092a9e2e4b0487f2a8da22d,5092a9e2e4b0487f2a8da22d,46,37,Koronet Pizza,1,8.1,59.0,12
+623,https://foursquare.com/v/99-fresh-pizza/509c8753e4b0ca91f9ee1756,509c8753e4b0ca91f9ee1756,42,12,99¢ Fresh Pizza,1,6.8,67.0,19
+624,https://foursquare.com/v/ambrosinos/509e972be4b0eaa915fa6107,509e972be4b0eaa915fa6107,0,0,Ambrosino's,1,0.0,0.0,0
+625,https://foursquare.com/v/lunetta-pizza/509eab73e4b0bae035b62704,509eab73e4b0bae035b62704,38,11,Lunetta Pizza,1,6.7,66.0,13
+626,https://foursquare.com/v/little-caesars-pizza/50a02136e4b01b68877bb70d,50a02136e4b01b68877bb70d,2,0,Little Caesars Pizza,1,6.3,6.0,2
+627,https://foursquare.com/v/salvos-pizzabar/50be582fe4b0ced4218a7826,50be582fe4b0ced4218a7826,82,47,Salvo's Pizzabar,2,8.5,120.0,30
+628,https://foursquare.com/v/julianas-pizza/50ca6337e4b04e1f3135689c,50ca6337e4b04e1f3135689c,1000,1646,Juliana's Pizza,2,9.0,1335.0,308
+629,https://foursquare.com/v/papa-johns-pizza/50eaf1c93d7c448a90d90c97,50eaf1c93d7c448a90d90c97,0,0,Papa John's Pizza,1,6.4,0.0,0
+630,https://foursquare.com/v/pizza-place/50f07a69e4b08e0ad68e2a9d,50f07a69e4b08e0ad68e2a9d,2,0,Pizza Place,1,0.0,0.0,2
+631,https://foursquare.com/v/patsys-pizzeria/50f9918de4b06a4e33f7bc7b,50f9918de4b06a4e33f7bc7b,80,78,Patsy's Pizzeria,2,7.8,120.0,29
+632,https://foursquare.com/v/motorino/50fdc8d3d63ec83e0b1aef05,50fdc8d3d63ec83e0b1aef05,219,411,Motorino,2,8.3,294.0,47
+633,https://foursquare.com/v/pizza-mia/5105881ae4b02d11db7d4754,5105881ae4b02d11db7d4754,3,0,Pizza Mia,1,0.0,0.0,1
+634,https://foursquare.com/v/california-pizza-kitchen/5106e18de4b04a054d064c7b,5106e18de4b04a054d064c7b,1,0,California Pizza Kitchen,1,7.5,1.0,0
+635,https://foursquare.com/v/armandos-pizza/510db94ae4b0eaff7af933a9,510db94ae4b0eaff7af933a9,15,7,Armando's Pizza,1,7.5,23.0,6
+636,https://foursquare.com/v/pizzeria-m--f/510f1a85e4b0f6277fa08bf5,510f1a85e4b0f6277fa08bf5,1,0,Pizzeria M & F,1,0.0,0.0,2
+637,https://foursquare.com/v/stella-34-trattoria/5113bdade4b02a8086623542,5113bdade4b02a8086623542,310,152,Stella 34 Trattoria,3,8.1,465.0,110
+638,https://foursquare.com/v/sofia-pizza/5133861de4b0cd2ac1a1fee8,5133861de4b0cd2ac1a1fee8,0,0,sofia pizza,1,0.0,0.0,0
+639,https://foursquare.com/v/joes-pizza/51351c3fe4b0c58b63965114,51351c3fe4b0c58b63965114,949,1185,Joe's Pizza,1,9.1,1180.0,164
+640,https://foursquare.com/v/prego-pizza/5137fb89e4b090c2c4c40269,5137fb89e4b090c2c4c40269,0,0,prego Pizza,1,0.0,0.0,0
+641,https://foursquare.com/v/buddys-pizza/513e10dce4b0c0dd043edfa8,513e10dce4b0c0dd043edfa8,1,0,Buddy's Pizza,1,0.0,0.0,0
+642,https://foursquare.com/v/dangelos-italian-pizzeria--restaurant/514cb2f3e4b07ece6ded65b5,514cb2f3e4b07ece6ded65b5,5,0,D'Angelo's Italian Pizzeria & Restaurant,1,6.4,11.0,4
+643,https://foursquare.com/v/papa-johns/5150df66e4b02ce0fce458ca,5150df66e4b02ce0fce458ca,0,0,Papa Johns,1,0.0,0.0,0
+644,https://foursquare.com/v/patsys-pizzeria/5152e96ee4b0b71b7277cd8d,5152e96ee4b0b71b7277cd8d,24,2,Patsy's Pizzeria,1,7.1,40.0,11
+645,https://foursquare.com/v/the-famous-emilios-pizza/5169feaae4b04280a40bcd5a,5169feaae4b04280a40bcd5a,4,0,The Famous Emilio's Pizza,1,6.3,8.0,2
+646,https://foursquare.com/v/boardwalk-pizza/516d9799e4b04a6c2cec40f0,516d9799e4b04a6c2cec40f0,17,7,Boardwalk Pizza,1,7.0,28.0,8
+647,https://foursquare.com/v/uptown-slices/5171de68e4b02cd2b631dcf9,5171de68e4b02cd2b631dcf9,4,0,Uptown Slices,1,0.0,0.0,2
+648,https://foursquare.com/v/the-corner-pizza-shop/517403cf498e0a484ffce922,517403cf498e0a484ffce922,1,0,The Corner Pizza Shop,1,0.0,0.0,1
+649,https://foursquare.com/v/little-caesars-pizza/51786fa4e4b002738f6c368e,51786fa4e4b002738f6c368e,3,2,Little Caesars Pizza,1,6.3,6.0,2
+650,https://foursquare.com/v/frank-and-dannys-pizza/517c5f82e4b042838bfca483,517c5f82e4b042838bfca483,1,0,Frank And Danny's Pizza,1,0.0,0.0,0
+651,https://foursquare.com/v/milkflower/51831cbf498e954462363bd3,51831cbf498e954462363bd3,407,642,Milkflower,3,9.4,520.0,119
+652,https://foursquare.com/v/fornino/519bdb24abd81726b7a90ede,519bdb24abd81726b7a90ede,164,171,Fornino,2,8.4,226.0,40
+653,https://foursquare.com/v/pizza-plus/51a51804498e776dc64a980b,51a51804498e776dc64a980b,16,0,Pizza Plus,1,7.1,27.0,3
+654,https://foursquare.com/v/roxbury-sugar-shack/51bdfda1498e51f049175ad3,51bdfda1498e51f049175ad3,2,1,Roxbury Sugar Shack,1,0.0,0.0,2
+655,https://foursquare.com/v/lexington-pizza-parlour/51be0bcc498ed21d5f114700,51be0bcc498ed21d5f114700,59,42,Lexington Pizza Parlour,1,8.3,91.0,26
+656,https://foursquare.com/v/doninos-pizza/51c385cd498e4ab0f1f84a75,51c385cd498e4ab0f1f84a75,0,0,Doninos Pizza,1,0.0,0.0,0
+657,https://foursquare.com/v/zzs-bar--pizza/51cf95e8498ef8740b88c22a,51cf95e8498ef8740b88c22a,4,0,ZZ's Bar & Pizza,2,6.1,9.0,4
+658,https://foursquare.com/v/norberts-pizza/521be85211d2aa585d4cd55b,521be85211d2aa585d4cd55b,69,35,Norbert's Pizza,1,8.1,92.0,16
+659,https://foursquare.com/v/cranberry/5224b8ba11d21137e81a0b72,5224b8ba11d21137e81a0b72,43,10,Cranberry,2,6.0,84.0,15
+660,https://foursquare.com/v/the-square/52290d19bce62e9251144431,52290d19bce62e9251144431,4,0,The Square,1,0.0,0.0,1
+661,https://foursquare.com/v/shelter/522a995c11d234f135f85645,522a995c11d234f135f85645,395,498,Shelter,2,8.0,554.0,96
+662,https://foursquare.com/v/tagliere/52338a71498e03427bb9f0b8,52338a71498e03427bb9f0b8,1,0,Tagliere,1,0.0,0.0,2
+663,https://foursquare.com/v/square-pizza/524b56b011d2512be54e6b10,524b56b011d2512be54e6b10,2,0,Square Pizza,1,0.0,0.0,1
+664,https://foursquare.com/v/papa-johns/5251d60611d26d1a9be7a05d,5251d60611d26d1a9be7a05d,0,0,Papa Johns,1,0.0,0.0,0
+665,https://foursquare.com/v/houdini-kitchen-laboratory/5274462611d28b23f31194bc,5274462611d28b23f31194bc,180,283,Houdini Kitchen Laboratory,2,8.7,242.0,50
+666,https://foursquare.com/luzzosbk,527d8cfc11d2a61a7c663024,165,168,Luzzo's BK,2,8.6,231.0,46
+667,https://foursquare.com/v/union-pizza-works/5293feba11d2879d473bad78,5293feba11d2879d473bad78,215,248,Union Pizza Works,2,8.7,271.0,37
+668,https://foursquare.com/v/sheshe-pizza/529ab1b7498e12a0b59815db,529ab1b7498e12a0b59815db,6,0,SheShe Pizza,1,6.9,11.0,3
+669,https://foursquare.com/v/dantes-pizza/529b82d111d2209a85949ac4,529b82d111d2209a85949ac4,12,1,Dante's Pizza,1,7.5,18.0,5
+670,https://foursquare.com/v/two-boots-williamsburg/52b355e311d29751a52a5540,52b355e311d29751a52a5540,122,41,Two Boots Williamsburg,2,7.6,178.0,19
+671,https://foursquare.com/v/american-cheez/52b4f847498e51be82233fab,52b4f847498e51be82233fab,110,54,American Cheez,1,8.3,154.0,22
+672,https://foursquare.com/v/williamsburg-pizza/52b5d6b6498e149068fbea80,52b5d6b6498e149068fbea80,150,170,Williamsburg Pizza,1,8.2,213.0,44
+673,https://foursquare.com/v/lea/52b90597498ed57b85609429,52b90597498ed57b85609429,115,113,Lea,2,7.9,172.0,32
+674,https://foursquare.com/v/kiss-my-slice/52c2040a498ee43fbc5e1e56,52c2040a498ee43fbc5e1e56,28,9,Kiss My Slice,1,6.9,51.0,9
+675,https://foursquare.com/pizzalovesemily,52c6e56211d293ba81a6ff9b,939,2520,Emily,2,9.2,1220.0,289
+676,https://foursquare.com/v/little-caesars-pizza/52f51b4d498e81fad5a70681,52f51b4d498e81fad5a70681,0,1,Little Caesars Pizza,1,6.3,0.0,0
+677,https://foursquare.com/v/little-caesars-pizza/52f5553d11d2e2288f60ae1b,52f5553d11d2e2288f60ae1b,7,0,Little Caesars Pizza,1,7.2,12.0,4
+678,https://foursquare.com/v/little-caesars-pizza/52f5554011d2e2288f60f7d7,52f5554011d2e2288f60f7d7,1,2,Little Caesars Pizza,1,6.4,1.0,3
+679,https://foursquare.com/v/pizzavino/5306ab46498ee3d5eb0f4869,5306ab46498ee3d5eb0f4869,19,0,PizzaVino,1,5.4,56.0,6
+680,https://foursquare.com/v/the-other-end-pizza-parlour/5330cac2498e5c16bd79d7fa,5330cac2498e5c16bd79d7fa,6,6,The Other End Pizza Parlour,1,0.0,0.0,1
+681,https://foursquare.com/v/rosebank-pizza/533601b2498e5a9aa1efb1da,533601b2498e5a9aa1efb1da,3,0,Rosebank Pizza,1,0.0,0.0,2
+682,https://foursquare.com/v/archies/53472f19498ee10da9096342,53472f19498ee10da9096342,324,380,Archie's,1,8.9,430.0,93
+683,https://foursquare.com/v/table-87/53618528498ea17aeb165d57,53618528498ea17aeb165d57,123,87,Table 87,1,8.5,167.0,34
+684,https://foursquare.com/v/cheesus-christ-pizza-grill/536ffbd6498ed4eaf79a0ec5,536ffbd6498ed4eaf79a0ec5,0,0,Cheesus Christ Pizza Grill,1,0.0,0.0,2
+685,https://foursquare.com/v/retro-pizza-cafe/537a9192498e1fc22aaf8fb4,537a9192498e1fc22aaf8fb4,38,10,Retro Pizza Cafe,1,8.8,45.0,7
+686,https://foursquare.com/v/little-italy-pizza/53826074498e7fa5d0248c64,53826074498e7fa5d0248c64,34,6,Little Italy Pizza,1,7.2,55.0,10
+687,https://foursquare.com/v/genaros-pizzeria--restaurant/538a649b498ed10827136b94,538a649b498ed10827136b94,3,0,Genaro's Pizzeria & Restaurant,1,0.0,0.0,3
+688,https://foursquare.com/v/pizza-hut/538f2cb7498e98c029bbd163,538f2cb7498e98c029bbd163,2,0,Pizza Hut,1,6.3,8.0,3
+689,https://foursquare.com/v/obic%C3%A0-mozzarella-bar-pizza-e-cucina/5396110b498ecef1832bd696,5396110b498ecef1832bd696,251,235,Obicà Mozzarella Bar Pizza e Cucina,2,8.0,376.0,67
+690,https://foursquare.com/v/whits-end-pizza-parlour/53a23002498efad82483ebc2,53a23002498efad82483ebc2,37,84,Whit's End Pizza Parlour,1,8.3,50.0,13
+691,https://foursquare.com/v/forno-rosso/53b36289498e528b6cad6624,53b36289498e528b6cad6624,170,81,Forno Rosso,1,8.0,246.0,40
+692,https://foursquare.com/v/zambardis-pizzeria--luncheonette/53baf505498e217141341e61,53baf505498e217141341e61,0,0,Zambardi's Pizzeria & Luncheonette,1,0.0,0.0,0
+693,https://foursquare.com/v/louises-pizza/53bb9c29498e6b2c8c10a7aa,53bb9c29498e6b2c8c10a7aa,0,0,Louise's Pizza,1,0.0,0.0,0
+694,https://foursquare.com/v/pizza-studio--fordham/53bf0f0b498e192333913ab2,53bf0f0b498e192333913ab2,17,5,Pizza Studio - Fordham,1,8.2,27.0,5
+695,https://foursquare.com/v/buona-pizza-restaurant/53d4547c498e216603c46eea,53d4547c498e216603c46eea,1,0,Buona Pizza Restaurant,1,0.0,0.0,1
+696,https://foursquare.com/v/ogliastro-pizza-bar/53dee1c1498e413b470391f6,53dee1c1498e413b470391f6,151,132,Ogliastro Pizza Bar,2,8.7,203.0,45
+697,https://foursquare.com/v/pi-314/53ea7e53498e3da8acc0d43b,53ea7e53498e3da8acc0d43b,1,0,Pi 3.14,1,0.0,0.0,0
+698,https://foursquare.com/v/marta/5406665a498e800a29690993,5406665a498e800a29690993,1086,2265,Marta,2,9.0,1418.0,280
+699,https://foursquare.com/v/b-side/540a5065498e234757a1e623,540a5065498e234757a1e623,371,581,B Side,2,9.2,497.0,114
+700,https://foursquare.com/v/patsys/54137971498e89ee8ad09e37,54137971498e89ee8ad09e37,0,0,Patsy's,1,0.0,0.0,0
+701,https://foursquare.com/v/campania-coal-fired-pizza/541b5438498ef6d4a62798c8,541b5438498ef6d4a62798c8,33,7,Campania Coal Fired Pizza,1,8.5,42.0,6
+702,https://foursquare.com/v/patsys-pizzeria--bronx/5420da12498ee81c3cfe9278,5420da12498ee81c3cfe9278,8,0,Patsy's Pizzeria - Bronx,1,6.6,12.0,0
+703,https://foursquare.com/v/julies-pizzeria--restaurant/5431ba1c498ec8da8a2e049e,5431ba1c498ec8da8a2e049e,5,0,Julie's Pizzeria & Restaurant,1,6.7,9.0,2
+704,https://foursquare.com/v/ny-pizza-grill-cafe-formally-georges-pizza/545e8326498ea3b16cba4efc,545e8326498ea3b16cba4efc,2,0,NY Pizza Grill Cafe (Formally George's Pizza),1,0.0,0.0,1
+705,https://foursquare.com/v/papa-johns-pizza/5461633e498ef9c2cef5879d,5461633e498ef9c2cef5879d,0,0,Papa John's Pizza,1,6.4,1.0,0
+706,https://foursquare.com/v/astoria-pizza-factory/546787ae498e0e0479f721ea,546787ae498e0e0479f721ea,12,1,Astoria Pizza Factory,1,7.8,15.0,1
+707,https://foursquare.com/v/two-boots-park-slope/5473ac3d498e636105c24749,5473ac3d498e636105c24749,48,29,Two Boots Park Slope,1,7.3,76.0,9
+708,https://foursquare.com/v/rossopomodoro/5480db86498e26c9def78766,5480db86498e26c9def78766,181,263,Rossopomodoro,1,8.7,240.0,33
+709,https://foursquare.com/v/sbarro/5497a485498eb41f84dacd7d,5497a485498eb41f84dacd7d,1,0,Sbarro,1,6.2,4.0,2
+710,https://foursquare.com/v/patsys-pizzeria/54d927a3498ec175c5b1c896,54d927a3498ec175c5b1c896,110,85,Patsy's Pizzeria,1,8.0,156.0,23
+711,https://foursquare.com/v/pizza-rollio/54dbd9bb498e35433c59c774,54dbd9bb498e35433c59c774,60,76,Pizza Rollio,1,8.7,87.0,29
+712,https://foursquare.com/v/robertas-take-out--bakery/54eca15e498e3832a1bba6e6,54eca15e498e3832a1bba6e6,88,142,Roberta's Take Out & Bakery,1,9.3,100.0,14
+713,https://foursquare.com/v/artichoke-basilles-pizza/54f61c0c498eb5962e415c55,54f61c0c498eb5962e415c55,100,41,Artichoke Basille's Pizza,1,8.3,138.0,20
+714,https://foursquare.com/v/frescos-pizzeria/5503762d498e150bef780584,5503762d498e150bef780584,27,3,Fresco's Pizzeria,1,8.3,31.0,2
+715,https://foursquare.com/v/lindustrie-pizzeria/55135426498e9dee8f19cc5f,55135426498e9dee8f19cc5f,114,244,L'Industrie Pizzeria,1,9.2,144.0,32
+716,https://foursquare.com/v/neapolitan-express/552572df498e2692b4103b57,552572df498e2692b4103b57,130,91,Neapolitan Express,1,8.7,171.0,27
+717,https://foursquare.com/v/astoria-pizza/5541a608498ecffd52f91dfc,5541a608498ecffd52f91dfc,6,1,Astoria Pizza,1,7.6,11.0,3
+718,https://foursquare.com/v/zestys-pizzeria-e-salumeria/55881297498ef037cd45b403,55881297498ef037cd45b403,29,4,Zestys Pizzeria e Salumeria,2,7.1,45.0,7
+719,https://foursquare.com/v/babbalucci/55a4456a498e29417f5c71a2,55a4456a498e29417f5c71a2,92,120,babbalucci,2,9.0,126.0,31
+720,https://foursquare.com/v/pizza-hut/55ad3554498e4f796905e7c0,55ad3554498e4f796905e7c0,0,0,Pizza Hut,1,0.0,0.0,0
+721,https://foursquare.com/v/artichoke-basilles-pizza/55be7a24498e7d23a24fa032,55be7a24498e7d23a24fa032,180,72,Artichoke Basille's Pizza,1,8.1,240.0,32
+722,https://foursquare.com/v/joes-pizza/55ca77b6498e773912568f3d,55ca77b6498e773912568f3d,508,298,Joe's Pizza,1,8.9,639.0,78
+723,https://foursquare.com/v/slice/55ca9764498ec90d4fd0df8d,55ca9764498ec90d4fd0df8d,87,42,sLICe,1,8.5,124.0,24
+724,https://foursquare.com/v/pizza-hut-express/55dca49d498e008d75270565,55dca49d498e008d75270565,1,0,Pizza Hut Express,1,6.1,3.0,1
+725,https://foursquare.com/v/b-squared/55dcfe49498ecb5afa92a9f2,55dcfe49498ecb5afa92a9f2,94,54,B Squared,1,8.4,123.0,20
+726,https://foursquare.com/v/lamico/55e63b89498e3ed62f75cff3,55e63b89498e3ed62f75cff3,390,760,L'Amico,3,8.8,515.0,76
+727,https://foursquare.com/v/champion-pizza-soho/55ea9f4d498ed46db0383483,55ea9f4d498ed46db0383483,1259,219,Champion Pizza Soho,1,9.2,507.0,149
+728,https://foursquare.com/v/robertas/55f9a2e8498e3c4b5a105eab,55f9a2e8498e3c4b5a105eab,197,630,Roberta's,1,8.8,266.0,62
+729,https://foursquare.com/v/ss-pizza/560c4847498ecdca69b4caa0,560c4847498ecdca69b4caa0,1,0,S&S Pizza,1,0.0,0.0,0
+730,https://foursquare.com/v/pizza-moto/56204302498eef9b2ffb2cc9,56204302498eef9b2ffb2cc9,165,256,Pizza Moto,1,9.3,186.0,26
+731,https://foursquare.com/v/san-matteo-pizzeria-e-cucina/562c1df4498e2c64fb4a9faa,562c1df4498e2c64fb4a9faa,105,201,San Matteo Pizzeria e Cucina,2,8.8,138.0,24
+732,https://foursquare.com/v/capizzi/5632957b498e0e665eaecc0e,5632957b498e0e665eaecc0e,18,3,Capizzi,2,8.0,25.0,3
+733,https://foursquare.com/v/parkside/563580bd498e59191f37606e,563580bd498e59191f37606e,86,64,Parkside,3,8.5,109.0,17
+734,https://foursquare.com/v/pza-pizzameatballsalad/563ba36b498ed9576d7f01fd,563ba36b498ed9576d7f01fd,4,0,PZA Pizza-Meatball-Salad,1,6.1,9.0,3
+735,https://foursquare.com/v/papa-sals-pizza/5647dbbe498e1dffcab37477,5647dbbe498e1dffcab37477,3,1,Papa Sal's Pizza,1,0.0,0.0,0
+736,https://foursquare.com/v/zurilee-pizza-bar/564fc417498e58f2bfed7138,564fc417498e58f2bfed7138,44,55,ZuriLee Pizza Bar,1,8.5,63.0,20
+737,https://foursquare.com/v/ninos-pizzeria/566da5b1498eba26c5a5b3c2,566da5b1498eba26c5a5b3c2,0,0,Nino's Pizzeria,1,0.0,0.0,0
+738,https://foursquare.com/v/marios/56a41fae498edb9d31056942,56a41fae498edb9d31056942,0,0,Mario's,1,0.0,0.0,0
+739,https://foursquare.com/v/bakers-pizza/56ac14dd498ebc721660c58d,56ac14dd498ebc721660c58d,107,89,Baker's Pizza,1,8.5,141.0,20
+740,https://foursquare.com/sirenetta_nyc,56afed04498e39e35747adf2,154,242,Pizzeria Sirenetta,2,8.9,196.0,35
+741,https://foursquare.com/v/pasquale-jones/56bbc58e498eed7b2c402556,56bbc58e498eed7b2c402556,346,1240,Pasquale Jones,3,8.6,470.0,99
+742,https://foursquare.com/v/scarrs-pizza/56c3c626cd106998d2b196d0,56c3c626cd106998d2b196d0,198,662,Scarr's Pizza,1,9.0,251.0,48
+743,https://foursquare.com/v/pizza-hut/56cb4048cd10365e0cb9e1e2,56cb4048cd10365e0cb9e1e2,1,0,Pizza Hut,1,6.4,2.0,0
+744,https://foursquare.com/v/speedy-romeo-les/56cf3493cd106ae44d0c76a8,56cf3493cd106ae44d0c76a8,291,862,Speedy Romeo LES,2,8.9,378.0,79
+745,https://foursquare.com/v/vinnies-pizzeria/56de2cce498ea7baae0ab157,56de2cce498ea7baae0ab157,20,17,Vinnie's Pizzeria,1,7.4,35.0,10
+746,https://foursquare.com/v/sottocasa-pizzeria--harlem/56e86a57cd1017cb53f3e8f9,56e86a57cd1017cb53f3e8f9,88,207,Sottocasa Pizzeria - Harlem,1,9.4,113.0,29
+747,https://foursquare.com/v/billys-pizzeria/56ef1053498e9cba8106ae39,56ef1053498e9cba8106ae39,0,0,billys pizzeria,1,0.0,0.0,0
+748,https://foursquare.com/v/pizza-hut/56f611c3cd10d686605b07eb,56f611c3cd10d686605b07eb,0,0,Pizza Hut,1,6.3,0.0,0
+749,https://foursquare.com/v/emmy-squared/570139a9498e16178005c729,570139a9498e16178005c729,690,1719,Emmy Squared,2,9.2,872.0,165
+750,https://foursquare.com/v/3-bros-pizza/5701ac5a498e3ea0a0d3e8a6,5701ac5a498e3ea0a0d3e8a6,6,0,3 Bros Pizza,1,6.8,9.0,1
+751,https://foursquare.com/v/paulie-gees-slice-shop/57040eae498ef7367c74b057,57040eae498ef7367c74b057,191,224,Paulie Gee's Slice Shop,1,8.9,236.0,27
+752,https://foursquare.com/v/yankee-pizza/5709b035498ec708767d9937,5709b035498ec708767d9937,0,0,Yankee Pizza,1,0.0,0.0,0
+753,https://foursquare.com/v/mamma-lucianas-brick-oven-pizzeria--kitchen/570a9dfd498e4f01dd90a755,570a9dfd498e4f01dd90a755,1,0,Mamma Luciana's Brick Oven Pizzeria & Kitchen,1,0.0,0.0,0
+754,https://foursquare.com/v/paulies-pizzaria/5713d07d498e0f7cfee89cc1,5713d07d498e0f7cfee89cc1,4,1,Paulie's Pizzaria,1,0.0,0.0,1
+755,https://foursquare.com/v/noels-pizza/57213ebd498e997b369664b9,57213ebd498e997b369664b9,0,0,Noel's Pizza,1,0.0,0.0,0
+756,https://foursquare.com/v/dominos-pizza/572add3b498ef9d37e2d0ebb,572add3b498ef9d37e2d0ebb,1,0,Domino's Pizza,1,6.5,1.0,0
+757,https://foursquare.com/v/dominos-pizza/572e55c2498e09865a842171,572e55c2498e09865a842171,5,0,Domino's Pizza,1,7.5,6.0,1
+758,https://foursquare.com/v/bodega-pizza/573313f1498e7f7dfeb0e849,573313f1498e7f7dfeb0e849,22,25,Bodega Pizza,1,8.9,30.0,7
+759,https://foursquare.com/v/abinitos-pizza/573a0c79498ed9b3f355de5b,573a0c79498ed9b3f355de5b,1,0,Abinito's Pizza,1,0.0,0.0,1
+760,https://foursquare.com/v/screamers-pizzeria/5761f36b498e2f6dca191e23,5761f36b498e2f6dca191e23,72,225,Screamer's Pizzeria,1,8.2,111.0,29
+761,https://foursquare.com/v/la-pizza--la-pasta/57acc558498e036ce8f2b0b4,57acc558498e036ce8f2b0b4,191,93,La Pizza & La Pasta,1,8.5,257.0,43
+762,https://foursquare.com/v/slice-o-whit/57c34a9d498e34ec2915fde1,57c34a9d498e34ec2915fde1,2,0,Slice o' Whit,1,0.0,0.0,2
+763,https://foursquare.com/v/motorino/57d21135498ee7584bdc048a,57d21135498ee7584bdc048a,77,133,Motorino,1,8.5,106.0,23
+764,https://foursquare.com/v/campania-coal-fired-pizza/57e5c0be498e440474c57bb3,57e5c0be498e440474c57bb3,8,0,campania coal fired pizza,1,7.3,10.0,1
+765,https://foursquare.com/v/ops/57f1a6b6498e407ba38f38b9,57f1a6b6498e407ba38f38b9,190,634,Ops,1,9.2,239.0,42
+766,https://foursquare.com/v/joes-pizza-by-the-sea/57f7f863cd10074b3f1c3e5c,57f7f863cd10074b3f1c3e5c,0,0,Joe's Pizza By The Sea,1,0.0,0.0,0
+767,https://foursquare.com/v/mimmos/57f85032498eeaa0fdff2f44,57f85032498eeaa0fdff2f44,0,0,Mimmo's,1,0.0,0.0,1
+768,https://foursquare.com/v/rebeccas/57f8571d498e4e964d5f2cc4,57f8571d498e4e964d5f2cc4,63,87,Rebecca's,2,8.9,77.0,13
+769,https://foursquare.com/v/jimmys-pizzeria/580148de38fa5505dbc18915,580148de38fa5505dbc18915,0,0,Jimmy's Pizzeria,1,0.0,0.0,0
+770,https://foursquare.com/v/slice/5805512b38fa919f343e7a1f,5805512b38fa919f343e7a1f,5,3,sLICe,1,5.3,16.0,4
+771,https://foursquare.com/v/prime-pizza-kitchen/580555dd38fa9a982907d9c9,580555dd38fa9a982907d9c9,1,0,Prime Pizza Kitchen,1,0.0,0.0,1
+772,https://foursquare.com/v/artichoke-pizza/580c0f5138fa5cd50cf1bd4f,580c0f5138fa5cd50cf1bd4f,126,41,Artichoke Pizza,1,8.0,173.0,20
+773,https://foursquare.com/v/big-boys-pizzeria/581247d238fa6e365aaded89,581247d238fa6e365aaded89,1,0,BIG BOYS Pizzeria,1,0.0,0.0,0
+774,https://foursquare.com/v/franks-bay-pizza/5812904538fa9dde7fabf9e6,5812904538fa9dde7fabf9e6,0,0,Frank's Bay Pizza,1,0.0,0.0,0
+775,https://foursquare.com/v/saporito-pizza--restaurant/5812fa4e38fa932fe0e540ee,5812fa4e38fa932fe0e540ee,0,0,Saporito Pizza & Restaurant,1,0.0,0.0,0
+776,https://foursquare.com/v/napolitana-pizza-and-restaurant/58131bd838fa8e786e4c8d2f,58131bd838fa8e786e4c8d2f,1,0,Napolitana Pizza and Restaurant,1,0.0,0.0,0
+777,https://foursquare.com/v/santa-panza/5819105249e900413a5fe0e2,5819105249e900413a5fe0e2,76,177,Santa Panza,1,8.6,100.0,21
+778,https://foursquare.com/v/the-new-pizza-professor/581a2021d7d30f446bb0ee4d,581a2021d7d30f446bb0ee4d,4,0,The New Pizza Professor,1,0.0,0.0,3
+779,https://foursquare.com/v/artichoke-basilles-pizza/581a921cb293f7196867f9dd,581a921cb293f7196867f9dd,7,5,Artichoke Basille's Pizza,1,7.3,9.0,1
+780,https://foursquare.com/v/sauce--barrel/5824f9a470fc420660d82754,5824f9a470fc420660d82754,60,33,Sauce & Barrel,1,7.3,93.0,12
+781,https://foursquare.com/v/brooklyn-pizza-crew/582f58752c55ec662dca3af3,582f58752c55ec662dca3af3,45,75,Brooklyn Pizza Crew,1,8.0,64.0,14
+782,https://foursquare.com/v/casa-theodoro/583a20e8ce593d4164ec4d0b,583a20e8ce593d4164ec4d0b,6,6,Casa Theodoro,1,0.0,0.0,1
+783,https://foursquare.com/v/dough-by-licastri/586450a49398ab59409ed1d5,586450a49398ab59409ed1d5,6,3,DOUGH by Licastri,1,0.0,0.0,3
+784,https://foursquare.com/v/famous-famiglia-pizza/586967944988da05edda9ca3,586967944988da05edda9ca3,21,14,Famous Famiglia Pizza,1,7.9,28.0,4
+785,https://foursquare.com/v/papa-johns-pizza/58767766cc5b6a0bed47c6d5,58767766cc5b6a0bed47c6d5,4,1,Papa John's Pizza,1,6.8,5.0,1
+786,https://foursquare.com/v/dominos-pizza/5877437e37da1d2355ff0d06,5877437e37da1d2355ff0d06,1,0,Domino's Pizza,1,6.4,2.0,1
+787,https://foursquare.com/v/kellys-pizza--fried-chicken/587d3fdbdfa6ff736be89974,587d3fdbdfa6ff736be89974,0,0,Kelly's Pizza & Fried Chicken,1,0.0,0.0,0
+788,https://foursquare.com/v/mimos-tratoria/588c9aa9561ded1b0ddac08b,588c9aa9561ded1b0ddac08b,0,0,mimos tratoria,1,0.0,0.0,1
+789,https://foursquare.com/v/kingsbridge-social-club/58935fd798f8aa7c14662653,58935fd798f8aa7c14662653,45,33,Kingsbridge Social Club,1,9.5,53.0,10
+790,https://foursquare.com/v/maxs-pizzeria/5897c1b88ae363385018bd98,5897c1b88ae363385018bd98,0,0,Max's Pizzeria,1,0.0,0.0,0
+791,https://foursquare.com/v/joe-and-sals/58a1f134b6e67d158df57e66,58a1f134b6e67d158df57e66,18,6,joe and sal's,1,8.1,22.0,2
+792,https://foursquare.com/v/marinara-pizza-upper-east/58adcbec24ca6a5d0788a6e8,58adcbec24ca6a5d0788a6e8,50,82,Marinara Pizza Upper East,1,8.9,60.0,8
+793,https://foursquare.com/v/m2o/58b6124ebf1a6d25420b2b98,58b6124ebf1a6d25420b2b98,0,0,m2o,1,0.0,0.0,0
+794,https://foursquare.com/v/bravi-ragazzi/58bad1af45c3ed4ca99f97f9,58bad1af45c3ed4ca99f97f9,18,7,Bravi Ragazzi,1,7.5,25.0,7
+795,https://foursquare.com/v/neighborhood-sbarro/58e83ec9e72ef643b39aee8d,58e83ec9e72ef643b39aee8d,1,0,Neighborhood Sbarro,1,6.3,1.0,0
+796,https://foursquare.com/v/the-pizza-parlor/58eea452e72ef631e9b864c8,58eea452e72ef631e9b864c8,3,0,The Pizza Parlor,1,0.0,0.0,0
+797,https://foursquare.com/v/kest%C3%A9/58f54555e2ead178a41de832,58f54555e2ead178a41de832,67,96,Kesté,1,8.3,94.0,18
+798,https://foursquare.com/v/artichoke-pizza/5903bcdbd0a14920a70f650a,5903bcdbd0a14920a70f650a,55,58,Artichoke Pizza,1,7.6,84.0,16
+799,https://foursquare.com/v/surf-city-pizzeria/59073a39b546187ea5cb9bde,59073a39b546187ea5cb9bde,9,1,Surf City Pizzeria,1,6.0,16.0,2
+800,https://foursquare.com/v/blaze-pizza/5914bfc78173cb55bc06db3c,5914bfc78173cb55bc06db3c,4,0,Blaze Pizza,1,7.1,7.0,2
+801,https://foursquare.com/v/table-87/5918ab8f2b984431bfbbba3f,5918ab8f2b984431bfbbba3f,18,0,Table 87,1,7.9,24.0,6
+802,https://foursquare.com/v/champion-pizza/5923b0cba4b51b76c28ca00a,5923b0cba4b51b76c28ca00a,249,267,Champion Pizza,1,9.2,250.0,18
+803,https://foursquare.com/v/loverboy/5931f2605c683828c55ce6d3,5931f2605c683828c55ce6d3,145,426,Loverboy,3,8.8,181.0,27
+804,https://foursquare.com/v/emily-west-village/593332f9123a1963f539daa0,593332f9123a1963f539daa0,478,1540,Emily West Village,1,9.2,611.0,116
+805,https://foursquare.com/v/gjs-pizzeria/593f245523472419006418ca,593f245523472419006418ca,2,0,G&J's Pizzeria,1,0.0,0.0,1
+806,https://foursquare.com/v/pizza/594076b2840fc235e72564c2,594076b2840fc235e72564c2,107,174,&pizza,1,8.6,145.0,20
+807,https://foursquare.com/v/brooklyn-pizza-market/596ab0631de7657c78f4251b,596ab0631de7657c78f4251b,38,20,Brooklyn Pizza Market,1,8.2,53.0,12
+808,https://foursquare.com/v/homeslice/597400a4b1538e4958483661,597400a4b1538e4958483661,28,10,Homeslice,1,7.0,43.0,3
+809,https://foursquare.com/v/rosalias-pizzeria/59824f61ad1ea40bd671a3a6,59824f61ad1ea40bd671a3a6,6,6,Rosalia's Pizzeria,1,7.2,10.0,3
+810,https://foursquare.com/v/levante/598b767cc0f1632f70376a5e,598b767cc0f1632f70376a5e,75,89,Levante,1,8.9,99.0,14
+811,https://foursquare.com/v/rosas-pizza/598ba71ff2905e16144cf3b9,598ba71ff2905e16144cf3b9,9,3,Rosa's Pizza,1,7.4,14.0,1
+812,https://foursquare.com/v/joes-pizza/598de3c33b83073f81718721,598de3c33b83073f81718721,318,541,Joe's Pizza,1,9.1,402.0,76
+813,https://foursquare.com/v/delafield-pizza/5995f0bdbcbf7a4289f4e270,5995f0bdbcbf7a4289f4e270,1,1,Delafield Pizza,1,0.0,0.0,1
+814,https://foursquare.com/v/sotto-le-stelle/59b07d7e25fb7b0a73e79217,59b07d7e25fb7b0a73e79217,44,96,Sotto Le Stelle,1,9.2,54.0,13
+815,https://foursquare.com/v/uncle-tonys-pizza/59beea8a26659b702af8a8e0,59beea8a26659b702af8a8e0,6,8,Uncle Tony's Pizza,1,0.0,0.0,2
+816,https://foursquare.com/v/champion-pizza/59c6a24d66611658119655be,59c6a24d66611658119655be,15,3,Champion Pizza,1,6.3,27.0,5
+817,https://foursquare.com/v/joe--pats-pizzeria-and-restaurant/59e0da82e97dfb754b1cf079,59e0da82e97dfb754b1cf079,76,244,Joe & Pat's Pizzeria and Restaurant,1,8.6,97.0,19
+818,https://foursquare.com/v/la-mia-pizza/59f7c2b081635b511fbdbe9b,59f7c2b081635b511fbdbe9b,14,4,La Mia Pizza,1,8.0,19.0,2
+819,https://foursquare.com/v/baciccia/59fbb49c81635b4c2110bf64,59fbb49c81635b4c2110bf64,11,4,Baciccia,1,6.3,21.0,5
+820,https://foursquare.com/v/crust/59fcf37c2aff310a9f03e883,59fcf37c2aff310a9f03e883,2,1,CRUST,1,6.6,8.0,3
+821,https://foursquare.com/v/sorbillo-pizzeria/5a1b58e5f0b4905fe177d8a4,5a1b58e5f0b4905fe177d8a4,97,328,Sorbillo Pizzeria,1,8.1,137.0,29
+822,https://foursquare.com/v/dominos-pizza/5a264373c8b2fb5c62b21d57,5a264373c8b2fb5c62b21d57,0,0,Domino's Pizza,1,6.4,0.0,0
+823,https://foursquare.com/v/prospect-pizza/5a2def8565cdf86a4dc14983,5a2def8565cdf86a4dc14983,4,0,Prospect Pizza,1,0.0,0.0,0
+824,https://foursquare.com/v/famous-famiglia-pizza--maiden-lane/5a3abd970531e829eb77b9a9,5a3abd970531e829eb77b9a9,3,1,Famous Famiglia Pizza - Maiden Lane,1,0.0,0.0,3
+825,https://foursquare.com/v/bros-99-cents-pizza/5a4b9d968a6f1771f73f1fc0,5a4b9d968a6f1771f73f1fc0,0,0,bros 99 cents pizza,1,0.0,0.0,0
+826,https://foursquare.com/v/thwaites-place-pizza/5a527ced7dc9e1226381181f,5a527ced7dc9e1226381181f,0,0,Thwaites Place Pizza,1,0.0,0.0,0
+827,https://foursquare.com/v/mamas-too/5a56c404ad1789206c4c302f,5a56c404ad1789206c4c302f,81,283,Mama's Too,1,9.0,100.0,21
+828,https://foursquare.com/v/lbk/5a764683ad17892c666a3a41,5a764683ad17892c666a3a41,22,18,LBK,1,8.6,30.0,7
+829,https://foursquare.com/v/curry-on-pizza/5a775e309deb7d70900273a1,5a775e309deb7d70900273a1,5,2,Curry On Pizza,1,0.0,0.0,3
+830,https://foursquare.com/v/champion-pizza/5a861d306cf01a16a0478dba,5a861d306cf01a16a0478dba,11,1,Champion Pizza,1,6.5,19.0,1
+831,https://foursquare.com/v/neapolitan-express/5a9ef0db8a6f175dfac88b4b,5a9ef0db8a6f175dfac88b4b,16,6,Neapolitan Express,1,7.8,21.0,3
+832,https://foursquare.com/v/beebes/5aa41faf178a2a08410ce198,5aa41faf178a2a08410ce198,46,181,Beebe’s,2,8.5,62.0,10
+833,https://foursquare.com/v/pqr/5aaaf5b18b98fd3a06885687,5aaaf5b18b98fd3a06885687,45,144,PQR,1,8.2,67.0,15
+834,https://foursquare.com/v/papa-johns-pizza/5ab938c70a08ab3d01c96d08,5ab938c70a08ab3d01c96d08,0,0,Papa John's Pizza,1,6.4,0.0,0
+835,https://foursquare.com/v/mela-pizza/5ac81f64598e643cd8c977d3,5ac81f64598e643cd8c977d3,2,0,Mela Pizza,1,0.0,0.0,1
+836,https://foursquare.com/v/arcade-pizza/5ac83d3b0f013c3cc9135100,5ac83d3b0f013c3cc9135100,0,0,Arcade Pizza,1,0.0,0.0,0
+837,https://foursquare.com/v/round-pizza/5ad9a46741868624a61254a9,5ad9a46741868624a61254a9,1,0,Round Pizza,1,0.0,0.0,1
+838,https://foursquare.com/v/una-pizza-napoletana/5ae016fc2faed54a007fbb89,5ae016fc2faed54a007fbb89,78,421,Una Pizza Napoletana,1,7.4,115.0,17
+839,https://foursquare.com/v/lions--tigers--squares/5aea805d2b9844002c1bfe6e,5aea805d2b9844002c1bfe6e,96,226,Lions & Tigers & Squares,1,8.4,128.0,21
+840,https://foursquare.com/v/angelinas-metro-market-fine-food-of-nyc/5aeb988b25ecca002c8e1a9a,5aeb988b25ecca002c8e1a9a,1,0,Angelina’s Metro Market Fine Food of NYC,1,0.0,0.0,1
+841,https://foursquare.com/v/oath-pizza/5b33c56f06fb600032c88e26,5b33c56f06fb600032c88e26,15,16,Oath Pizza,1,8.3,23.0,10
+842,https://foursquare.com/v/lombardos-of-bay-ridge/5b3552d3135b39002c682a9b,5b3552d3135b39002c682a9b,4,1,Lombardo’s of Bay Ridge,1,0.0,0.0,1
+843,https://foursquare.com/v/pizza-secret/5b3803f998fbfc002c27d620,5b3803f998fbfc002c27d620,31,36,Pizza Secret,1,7.6,44.0,7
+844,https://foursquare.com/v/rad-times-pizza/5b3825aacf72a0002cce6f7c,5b3825aacf72a0002cce6f7c,0,0,Rad Times Pizza,1,0.0,0.0,0
+845,https://foursquare.com/v/emmy-squared/5b401705c66666003984a628,5b401705c66666003984a628,133,329,Emmy Squared,1,9.0,164.0,23
+846,https://foursquare.com/v/round-pie/5b43d91f81a0ea002c344517,5b43d91f81a0ea002c344517,1,0,Round Pie,1,0.0,0.0,0
+847,https://foursquare.com/v/pizza-loves-emily/5b47f8e6ba57b4002ce271c0,5b47f8e6ba57b4002ce271c0,1,19,Pizza Loves Emily,1,0.0,0.0,1
+848,https://foursquare.com/v/rosas-pizza/5b5a75d5b8fd9d002ce46410,5b5a75d5b8fd9d002ce46410,26,14,Rosa’s Pizza,1,8.4,35.0,8
+849,https://foursquare.com/v/luzzos/5b64f516054e2900399c0d57,5b64f516054e2900399c0d57,16,12,Luzzo’s,1,8.0,22.0,4
+850,https://foursquare.com/v/brooklyn-pizza-masters/5b67816712c8f0002c3ce0b6,5b67816712c8f0002c3ce0b6,9,9,Brooklyn Pizza Masters,1,8.1,11.0,1
+851,https://foursquare.com/v/pizza-moto/5b8c218bbd4009003907d235,5b8c218bbd4009003907d235,3,0,Pizza Moto,1,0.0,0.0,1
+852,https://foursquare.com/v/archies/5b8dc6056e4650002c8d2eef,5b8dc6056e4650002c8d2eef,5,8,Archie’s,1,0.0,0.0,1
+853,https://foursquare.com/v/eddies-pizza-party/5b98305527cbd100252cfe7c,5b98305527cbd100252cfe7c,0,0,Eddie’s Pizza Party,1,0.0,0.0,0
+854,https://foursquare.com/v/seppe-pizza/5b98a33b9ef8ef002c4dc665,5b98a33b9ef8ef002c4dc665,2,2,Seppe Pizza,1,0.0,0.0,0
+855,https://foursquare.com/v/sauce-pizzeria/5ba2bdd5c824ae002c065c67,5ba2bdd5c824ae002c065c67,38,87,Sauce Pizzeria,1,7.6,53.0,10
+856,https://foursquare.com/v/pizza-vizza/5bb1040e8110450039b5829b,5bb1040e8110450039b5829b,0,0,Pizza Vizza,1,0.0,0.0,0
+857,https://foursquare.com/v/sauce-and-soda/5bb9373afe3740002c3fe159,5bb9373afe3740002c3fe159,2,2,Sauce and Soda,1,0.0,0.0,2
+858,https://foursquare.com/v/family-pizza/5bd0f6091fa763003930f7db,5bd0f6091fa763003930f7db,0,0,Family Pizza,1,0.0,0.0,0
+859,https://foursquare.com/v/pizza-damore/5bf9a427f8cbd4002c24da29,5bf9a427f8cbd4002c24da29,0,0,Pizza Damore,1,0.0,0.0,0
+860,https://foursquare.com/v/marianna-pizza/5bfae594bb8d36002c3bba47,5bfae594bb8d36002c3bba47,0,0,Marianna Pizza,1,0.0,0.0,0
+861,https://foursquare.com/v/screamers-pizzeria/5c02d0672be425002c567115,5c02d0672be425002c567115,24,44,Screamer’s Pizzeria,1,8.1,30.0,2
+862,https://foursquare.com/v/made-in-new-york-pizza/5c1332dd7b385f002b21bd54,5c1332dd7b385f002b21bd54,31,57,Made In New York Pizza,1,7.8,44.0,12
+863,https://foursquare.com/v/philomenas/5c280ce4149946002c9e2119,5c280ce4149946002c9e2119,13,16,Philomena's,1,8.8,14.0,4
+864,https://foursquare.com/v/mikeys-famous-pizza--chicken/5c31a29dd48ec1002c71764f,5c31a29dd48ec1002c71764f,0,0,Mikey's Famous Pizza & Chicken,1,0.0,0.0,0
+865,https://foursquare.com/v/upside-pizza/5c351c9c121384002c5d27e7,5c351c9c121384002c5d27e7,31,108,Upside Pizza,1,8.1,47.0,15
+866,https://foursquare.com/v/ginos-pizzeria/5c37cec3898bdc002c5e8b07,5c37cec3898bdc002c5e8b07,1,0,Gino’s Pizzeria,1,0.0,0.0,0
+867,https://foursquare.com/v/sauce-pizzeria/5c3fa558625a66002ce432aa,5c3fa558625a66002ce432aa,21,16,Sauce Pizzeria,1,8.6,24.0,2
+868,https://foursquare.com/v/patrizias-of-maspeth/5c6183b006fb60002ca6572b,5c6183b006fb60002ca6572b,5,0,Patrizia's of Maspeth,2,0.0,0.0,2
+869,https://foursquare.com/v/bricklyn/5c69cf78135b39002c29f633,5c69cf78135b39002c29f633,0,0,Bricklyn,1,0.0,0.0,0
+870,https://foursquare.com/v/joes-pizza/5c6f03f30802d4002c16884c,5c6f03f30802d4002c16884c,58,62,Joe’s Pizza,1,9.1,67.0,9
+871,https://foursquare.com/v/bravo-pizza/5c6f336978782c002c83f7eb,5c6f336978782c002c83f7eb,1,0,Bravo Pizza,1,0.0,0.0,1
+872,https://foursquare.com/v/williamsburg-pizza/5c916cdfcad1b600394189ff,5c916cdfcad1b600394189ff,9,8,Williamsburg Pizza,1,7.5,12.0,1
+873,https://foursquare.com/v/village-square-pizza/5c92dfbfc53093002c48530b,5c92dfbfc53093002c48530b,22,38,Village Square Pizza,1,8.1,30.0,6
+874,https://foursquare.com/v/richmond-family-pizza/5ca8e3181af8520039df73f0,5ca8e3181af8520039df73f0,0,0,Richmond Family Pizza,1,0.0,0.0,0
+875,https://foursquare.com/v/best-pizza-shop/5cb62b5ff1fdaf002cc3c195,5cb62b5ff1fdaf002cc3c195,4,0,Best Pizza Shop,1,0.0,0.0,1
+876,https://foursquare.com/v/crust-pizza/5cdc9b5967af3a002cb7ce9f,5cdc9b5967af3a002cb7ce9f,1,0,Crust Pizza,1,0.0,0.0,0
+877,https://foursquare.com/v/roeys/5cdd9cdcc47cf9002c7a4337,5cdd9cdcc47cf9002c7a4337,19,44,Roey’s,1,8.5,22.0,3
+878,https://foursquare.com/v/flour--oak/5ce073ae2a7ab6002bbdbc47,5ce073ae2a7ab6002bbdbc47,1,0,Flour & Oak,1,0.0,0.0,0
+879,https://foursquare.com/v/union-st-pizza/5cef15b5c4df1d002ca0c8e4,5cef15b5c4df1d002ca0c8e4,3,2,Union St Pizza,1,0.0,0.0,1
+880,https://foursquare.com/v/artichoke-basilles-pizza/5cf99d3e0e3239002bff456e,5cf99d3e0e3239002bff456e,3,0,Artichoke Basille's Pizza,1,7.0,6.0,1
+881,https://foursquare.com/v/pizza-pub/5d0fcd9ec626c60023bc11dd,5d0fcd9ec626c60023bc11dd,0,0,Pizza Pub,1,0.0,0.0,0
+882,https://foursquare.com/v/montesacaro-pinseria/5d11502e1822230025b3817c,5d11502e1822230025b3817c,25,89,Montesacaro Pinseria,2,8.3,33.0,6
+883,https://foursquare.com/v/pizza/5d24ee3bc195980023b6c7e7,5d24ee3bc195980023b6c7e7,1,4,&pizza,1,7.7,3.0,1
+884,https://foursquare.com/v/midici-the-neapolitan-pizza-co/5d2a5733d1c2670023950184,5d2a5733d1c2670023950184,2,0,Midici The Neapolitan Pizza Co,1,0.0,0.0,0
+885,https://foursquare.com/v/blaze-pizza/5d3bafaf63f421000858d6b0,5d3bafaf63f421000858d6b0,1,0,Blaze Pizza,1,7.4,3.0,2
+886,https://foursquare.com/v/hoek-pizza/5d463162ab5d1c000867bd8d,5d463162ab5d1c000867bd8d,7,10,Hoek Pizza,1,0.0,0.0,0
+887,https://foursquare.com/v/two-brothers-pizzeria/5d4f8e982d5e6d00084df058,5d4f8e982d5e6d00084df058,0,0,Two Brothers Pizzeria,1,0.0,0.0,0
+888,https://foursquare.com/v/la-vera-pizza/5d5062b7ffde7900086e149f,5d5062b7ffde7900086e149f,0,2,La Vera Pizza,1,0.0,0.0,0
+889,https://foursquare.com/v/ff-pizzeria/5d56bcea6ac2400008de14d9,5d56bcea6ac2400008de14d9,36,84,F&F Pizzeria,1,9.1,40.0,5
+890,https://foursquare.com/v/norms-pizza/5d58452a949328000813061f,5d58452a949328000813061f,17,42,Norm’s Pizza,1,7.4,26.0,5
+891,https://foursquare.com/v/sergios-pizza/5d59d429912a9500070b3011,5d59d429912a9500070b3011,0,0,Sergio’s Pizza,1,0.0,0.0,0
+892,https://foursquare.com/v/nonnas-pizzeria/5d642fd6a9fbd90008ae4d37,5d642fd6a9fbd90008ae4d37,2,2,Nonna’s Pizzeria,1,0.0,0.0,2
+893,https://foursquare.com/v/mimmos-brick-oven-pizza--trattoria/5d65dc82ca17630008a7fc4c,5d65dc82ca17630008a7fc4c,0,0,Mimmo's Brick Oven Pizza & Trattoria,1,0.0,0.0,0
+894,https://foursquare.com/v/new-balance-pizza-co/5da110df2c1e910008c61f82,5da110df2c1e910008c61f82,4,0,New Balance Pizza Co,1,7.7,6.0,1
+895,https://foursquare.com/v/lions--tigers--squares/5da11aa901d3640008f73c65,5da11aa901d3640008f73c65,8,22,Lions & Tigers & Squares,1,8.0,13.0,2
+896,https://foursquare.com/v/jeannies/5daf4756faac31000840fe7a,5daf4756faac31000840fe7a,1,0,Jeannie's,1,0.0,0.0,1
+897,https://foursquare.com/v/leo/5db9b79a76758b0008c18821,5db9b79a76758b0008c18821,1,9,Leo,1,0.0,0.0,1
+898,https://foursquare.com/v/pizza-pasta-amore/5dc35f282e35420008e1e4c8,5dc35f282e35420008e1e4c8,0,0,Pizza Pasta Amore,1,0.0,0.0,0
+899,https://foursquare.com/v/new-york-pizza/5dc48bd371af1100084da0f3,5dc48bd371af1100084da0f3,0,0,New York Pizza,1,0.0,0.0,0
+900,https://foursquare.com/v/emmy-squared/5dcc4f94d4b62c0009df23dd,5dcc4f94d4b62c0009df23dd,0,0,Emmy Squared,1,0.0,0.0,0
+901,https://foursquare.com/v/venecia-pizzeria/5dd2d954a03864000809d810,5dd2d954a03864000809d810,0,0,Venecia Pizzeria,1,0.0,0.0,0
+902,https://foursquare.com/v/rossi-pizzeria/5dd32695ca0aea000814c6b3,5dd32695ca0aea000814c6b3,0,0,Rossi Pizzeria,1,0.0,0.0,0
